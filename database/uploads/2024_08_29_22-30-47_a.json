@@ -1,0 +1,10 @@
+{
+  "relations" : [
+    {
+      "id": "2",
+      "type": "LocatedIn",
+      "from": "2",
+      "to": "11"
+    }
+  ]
+}

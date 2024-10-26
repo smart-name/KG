@@ -1,0 +1,22 @@
+{
+  "entities": [
+    {
+      "id": "1",
+      "type": "City",
+      "name": "北京",
+      "coordinates": {
+        "latitude": 12.2332,
+        "longitude": 123.3232
+      }
+    },
+    {
+      "id": "11",
+      "type": "Region",
+      "name": "北京市海淀区",
+      "coordinates": {
+        "latitude": 13.1313,
+        "longitude": 134.2323
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<form action="" method="post" enctype="multipart/form-data">
+    <label for="delete">删除数据:</label>
+    <div id="delete">
+        <div class="flex-space-between">
+            <div class="text">
+                <label for="delete_condition">condition:</label>
+                <br>
+                <input type="text" name="delete_condition" id="delete_condition" />
+            </div>
+            <input class="btn_deleteOrUpdate" type="submit" value="删除">
+        </div>
+    </div>
+</form>
+<form action="" method="post" enctype="multipart/form-data">
+    <label for="update">更新数据:</label>
+    <div id="update">
+        <div class="flex-space-between">
+            <div class="text">
+                <label for="update_column">column:</label>
+                <br>
+                <input type="text" name="update_column" id="update_column" />
+            </div>
+            <div class="text">
+                <label for="update_condition">condition:</label>
+                <br>
+                <input type="text" name="update_condition" id="update_condition" />
+            </div>
+            <input class="btn_deleteOrUpdate" type="submit" value="更新">
+        </div>
+    </div>
+</form>
+<form action="" method="post" enctype="multipart/form-data">
+    <label for="select">查询数据:</label>
+    <input type="checkbox" id="show_entity" name="show_entity"/>
+    <label for="show_entity">显示实体信息</label>
+    <div id="select">
+        <div class="flex-space-between">
+            <div class="text">
+                <label for="select_column">column:</label>
+                <br>
+                <input type="text" name="select_column" id="select_column" />
+            </div>
+            <div class="text">
+                <label for="select_condition">condition:</label>
+                <br>
+                <input type="text" name="select_condition" id="select_condition" />
+            </div>
+            <input class="btn_deleteOrUpdate" type="submit" value="查询">
+        </div>
+    </div>
+</form>
+<p>{{ results|length }} Results</p>
+
+<div class="table_updateAndView">
+    <table class="table">
+        <caption>{{ table }}</caption>
+        <thead>
+            <tr>
+                {% if results %}
+                    {% for key,value in results[0].items() %}
+                        <th> {{key}} </th>
+                    {% endfor %}
+                {% endif %}
+            </tr>
+        </thead>
+        <tbody>
+            {% for result in results %}
+                <tr>
+                    {% for key,value in result.items() %}
+                        <td> {{value}} </td>
+                    {% endfor %}
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+
+{% endblock %}

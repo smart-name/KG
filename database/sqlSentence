@@ -1,0 +1,156 @@
+#经纬度是否需要记录南北纬东西经
+
+CREATE DATABASE city_knowledge_graph_test;
+
+USE city_knowledge_graph_test;
+
+CREATE TABLE Regionalism (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL
+);
+
+
+CREATE TABLE Relation_Category (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL
+);
+
+
+CREATE TABLE City (
+    id INT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE Region (
+    id INT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE AOI (
+    id INT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE POI (
+    id INT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL
+);
+
+
+
+CREATE TABLE City_CloseTo (
+    id INT PRIMARY KEY,
+    idFrom INT NOT NULL,
+    idTo INT NOT NULL,
+
+    constraint fk_city2city_ct_from foreign key (idFrom) references City (id),
+    constraint fk_city2city_ct_to foreign key (idTo) references City (id)
+);
+
+CREATE TABLE Region_CloseTo (
+    id INT PRIMARY KEY,
+    idFrom INT NOT NULL,
+    idTo INT NOT NULL,
+
+    constraint fk_region2region_ct_from foreign key (idFrom) references Region(id),
+    constraint fk_region2region_ct_to foreign key (idTo) references Region(id)
+);
+
+CREATE TABLE AOI_CloseTo (
+    id INT PRIMARY KEY,
+    idFrom INT NOT NULL,
+    idTo INT NOT NULL,
+
+    constraint fk_aoi2aoi_ct_from foreign key (idFrom) references AOI(id),
+    constraint fk_aoi2aoi_ct_to foreign key (idTo) references AOI(id)
+);
+
+CREATE TABLE POI_CloseTo (
+    id INT PRIMARY KEY,
+    idFrom INT NOT NULL,
+    idTo INT NOT NULL,
+
+    constraint fk_poi2poi_ct_from foreign key (idFrom) references POI(id),
+    constraint fk_poi2poi_ct_to foreign key (idTo) references POI(id)
+);
+
+
+CREATE TABLE City_Coordinates (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    idFrom INT NOT NULL,
+    latitude DECIMAL(6,4) NOT NULL,
+    longitude DECIMAL(7,4) NOT NULL,
+
+    constraint fk_city_c_from foreign key (idFrom) references City(id)
+);
+
+CREATE TABLE Region_Coordinates (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    idFrom INT NOT NULL,
+    latitude DECIMAL(6,4) NOT NULL,
+    longitude DECIMAL(7,4) NOT NULL,
+
+    constraint fk_region_c_from foreign key (idFrom) references Region(id)
+);
+
+CREATE TABLE AOI_Coordinates (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    idFrom INT NOT NULL,
+    latitude DECIMAL(6,4) NOT NULL,
+    longitude DECIMAL(7,4) NOT NULL,
+
+    constraint fk_aoi_c_from foreign key (idFrom) references AOI(id)
+);
+
+CREATE TABLE POI_Coordinates (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    idFrom INT NOT NULL,
+    latitude DECIMAL(6,4) NOT NULL,
+    longitude DECIMAL(7,4) NOT NULL,
+
+    constraint fk_poi_c_from foreign key (idFrom) references POI(id)
+);
+
+
+
+CREATE TABLE City_LocatedIn (
+    id INT PRIMARY KEY,
+    idFrom INT NOT NULL,
+    idTo INT NOT NULL,
+
+    constraint fk_city2region_li_from foreign key (idFrom) references City(id),
+    constraint fk_city2region_li_to foreign key (idTo) references Region(id)
+);
+
+CREATE TABLE Region_LocatedIn (
+    id INT PRIMARY KEY,
+    idFrom INT NOT NULL,
+    idTo INT NOT NULL,
+
+    constraint fk_region2aoi_li_from foreign key (idFrom) references Region(id),
+    constraint fk_region2aoi_li_to foreign key (idTo) references AOI(id)
+);
+
+CREATE TABLE AOI_LocatedIn (
+    id INT PRIMARY KEY,
+    idFrom INT NOT NULL,
+    idTo INT NOT NULL,
+
+    constraint fk_aoi2poi_li_from foreign key (idFrom) references AOI(id),
+    constraint fk_aoi2poi_li_to foreign key (idTo) references POI(id)
+);
+
+
+CREATE TABLE POI_SameAs (
+    id INT PRIMARY KEY,
+    idFrom INT NOT NULL,
+    idTo INT NOT NULL,
+
+    constraint fk_poi2poi_sa_from foreign key (idFrom) references POI(id),
+    constraint fk_poi2poi_sa_to foreign key (idTo) references POI(id)
+);
+
+INSERT INTO Regionalism(name) VALUES ('City'),('Region'),('AOI'),('POI');
+INSERT INTO Relation_Category(name) VALUES ('CloseTo'),('LocatedIn'),('SameAs'),('Coordinates');
+
+TRUNCATE TABLE Regionalism;

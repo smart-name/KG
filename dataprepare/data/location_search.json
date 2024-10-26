@@ -1,0 +1,5095 @@
+[
+  {
+    "name": "天安门",
+    "coordinates": [
+      {
+        "latitude": "39.909187",
+        "longitude": "116.397455"
+      },
+      {
+        "latitude": "39.907780",
+        "longitude": "116.401216"
+      },
+      {
+        "latitude": "39.903179",
+        "longitude": "116.397755"
+      },
+      {
+        "latitude": "39.906928",
+        "longitude": "116.397554"
+      },
+      {
+        "latitude": "39.907472",
+        "longitude": "116.391278"
+      },
+      {
+        "latitude": "39.908363",
+        "longitude": "116.396590"
+      },
+      {
+        "latitude": "39.908751",
+        "longitude": "116.397487"
+      },
+      {
+        "latitude": "39.907643",
+        "longitude": "116.401267"
+      },
+      {
+        "latitude": "39.909473",
+        "longitude": "116.397309"
+      },
+      {
+        "latitude": "39.900393",
+        "longitude": "116.397860"
+      }
+    ]
+  },
+  {
+    "name": "松林闸",
+    "coordinates": [
+      {
+        "latitude": "39.949695",
+        "longitude": "116.376544"
+      }
+    ]
+  },
+  {
+    "name": "东直门",
+    "coordinates": [
+      {
+        "latitude": "39.941823",
+        "longitude": "116.426319"
+      },
+      {
+        "latitude": "39.941626",
+        "longitude": "116.435842"
+      },
+      {
+        "latitude": "39.941033",
+        "longitude": "116.431146"
+      },
+      {
+        "latitude": "39.942130",
+        "longitude": "116.436620"
+      },
+      {
+        "latitude": "39.941050",
+        "longitude": "116.424740"
+      },
+      {
+        "latitude": "39.941037",
+        "longitude": "116.436955"
+      },
+      {
+        "latitude": "39.946308",
+        "longitude": "116.441910"
+      },
+      {
+        "latitude": "39.936158",
+        "longitude": "116.434219"
+      },
+      {
+        "latitude": "39.937140",
+        "longitude": "116.427707"
+      },
+      {
+        "latitude": "39.940793",
+        "longitude": "116.433852"
+      }
+    ]
+  },
+  {
+    "name": "右安门",
+    "coordinates": [
+      {
+        "latitude": "39.858541",
+        "longitude": "116.365016"
+      },
+      {
+        "latitude": "39.867693",
+        "longitude": "116.364383"
+      },
+      {
+        "latitude": "39.869274",
+        "longitude": "116.364298"
+      },
+      {
+        "latitude": "39.859276",
+        "longitude": "116.361502"
+      },
+      {
+        "latitude": "39.870352",
+        "longitude": "116.367592"
+      },
+      {
+        "latitude": "39.876164",
+        "longitude": "116.363958"
+      },
+      {
+        "latitude": "39.867151",
+        "longitude": "116.364736"
+      },
+      {
+        "latitude": "39.869658",
+        "longitude": "116.356892"
+      },
+      {
+        "latitude": "39.871154",
+        "longitude": "116.377037"
+      },
+      {
+        "latitude": "39.873060",
+        "longitude": "116.359862"
+      }
+    ]
+  },
+  {
+    "name": "龙潭闸",
+    "coordinates": [
+      {
+        "latitude": "39.878817",
+        "longitude": "116.440194"
+      },
+      {
+        "latitude": "39.879751",
+        "longitude": "116.428952"
+      },
+      {
+        "latitude": "39.879792",
+        "longitude": "116.438258"
+      },
+      {
+        "latitude": "39.881759",
+        "longitude": "116.434539"
+      },
+      {
+        "latitude": "39.881233",
+        "longitude": "116.432730"
+      },
+      {
+        "latitude": "39.879741",
+        "longitude": "116.437536"
+      },
+      {
+        "latitude": "39.876928",
+        "longitude": "116.429426"
+      },
+      {
+        "latitude": "40.416151",
+        "longitude": "116.256002"
+      },
+      {
+        "latitude": "40.614038",
+        "longitude": "116.691461"
+      },
+      {
+        "latitude": "40.666569",
+        "longitude": "116.656864"
+      }
+    ]
+  },
+  {
+    "name": "朝阳",
+    "coordinates": [
+      {
+        "latitude": "39.921444",
+        "longitude": "116.443136"
+      },
+      {
+        "latitude": "39.921444",
+        "longitude": "116.443136"
+      },
+      {
+        "latitude": "39.924659",
+        "longitude": "116.443877"
+      },
+      {
+        "latitude": "39.933085",
+        "longitude": "116.475068"
+      },
+      {
+        "latitude": "39.916977",
+        "longitude": "116.530476"
+      },
+      {
+        "latitude": "39.879132",
+        "longitude": "116.472856"
+      },
+      {
+        "latitude": "39.918109",
+        "longitude": "116.447314"
+      },
+      {
+        "latitude": "39.905144",
+        "longitude": "116.588151"
+      },
+      {
+        "latitude": "39.961237",
+        "longitude": "116.464825"
+      },
+      {
+        "latitude": "39.922402",
+        "longitude": "116.463254"
+      }
+    ]
+  },
+  {
+    "name": "乐家花园",
+    "coordinates": [
+      {
+        "latitude": "39.902905",
+        "longitude": "116.451134"
+      },
+      {
+        "latitude": "39.870071",
+        "longitude": "116.580559"
+      },
+      {
+        "latitude": "39.880842",
+        "longitude": "116.383761"
+      },
+      {
+        "latitude": "39.872854",
+        "longitude": "116.439179"
+      },
+      {
+        "latitude": "39.908574",
+        "longitude": "116.575548"
+      },
+      {
+        "latitude": "39.979172",
+        "longitude": "116.3049"
+      },
+      {
+        "latitude": "39.881730",
+        "longitude": "116.673489"
+      },
+      {
+        "latitude": "39.755332",
+        "longitude": "116.364498"
+      },
+      {
+        "latitude": "39.843900",
+        "longitude": "116.527255"
+      },
+      {
+        "latitude": "39.780855",
+        "longitude": "116.285818"
+      }
+    ]
+  },
+  {
+    "name": "高碑店",
+    "coordinates": [
+      {
+        "latitude": "39.902884",
+        "longitude": "116.532109"
+      },
+      {
+        "latitude": "39.909448",
+        "longitude": "116.531421"
+      },
+      {
+        "latitude": "39.906325",
+        "longitude": "116.537192"
+      },
+      {
+        "latitude": "39.897190",
+        "longitude": "116.542571"
+      },
+      {
+        "latitude": "39.897331",
+        "longitude": "116.541804"
+      },
+      {
+        "latitude": "39.912406",
+        "longitude": "116.522173"
+      },
+      {
+        "latitude": "39.888454",
+        "longitude": "116.527412"
+      },
+      {
+        "latitude": "39.903969",
+        "longitude": "116.529848"
+      },
+      {
+        "latitude": "39.905146",
+        "longitude": "116.526686"
+      },
+      {
+        "latitude": "39.902516",
+        "longitude": "116.547139"
+      }
+    ]
+  },
+  {
+    "name": "羊坊闸",
+    "coordinates": [
+      {
+        "latitude": "40.041676",
+        "longitude": "116.408887"
+      }
+    ]
+  },
+  {
+    "name": "海淀",
+    "coordinates": [
+      {
+        "latitude": "39.959893",
+        "longitude": "116.297700"
+      },
+      {
+        "latitude": "39.977058",
+        "longitude": "116.315102"
+      },
+      {
+        "latitude": "39.986416",
+        "longitude": "116.295122"
+      },
+      {
+        "latitude": "39.944690",
+        "longitude": "116.297745"
+      },
+      {
+        "latitude": "39.978126",
+        "longitude": "116.312785"
+      },
+      {
+        "latitude": "39.976687",
+        "longitude": "116.318373"
+      },
+      {
+        "latitude": "39.930722",
+        "longitude": "116.242014"
+      },
+      {
+        "latitude": "39.982463",
+        "longitude": "116.310086"
+      },
+      {
+        "latitude": "39.926044",
+        "longitude": "116.322151"
+      },
+      {
+        "latitude": "40.049988",
+        "longitude": "116.262293"
+      }
+    ]
+  },
+  {
+    "name": "温泉",
+    "coordinates": [
+      {
+        "latitude": "39.905664",
+        "longitude": "116.434696"
+      },
+      {
+        "latitude": "39.913994",
+        "longitude": "116.436723"
+      },
+      {
+        "latitude": "39.900464",
+        "longitude": "116.463015"
+      },
+      {
+        "latitude": "39.906053",
+        "longitude": "116.435447"
+      },
+      {
+        "latitude": "39.931301",
+        "longitude": "116.475724"
+      },
+      {
+        "latitude": "39.868214",
+        "longitude": "116.464841"
+      },
+      {
+        "latitude": "39.904941",
+        "longitude": "116.502102"
+      },
+      {
+        "latitude": "39.862988",
+        "longitude": "116.435128"
+      },
+      {
+        "latitude": "39.905757",
+        "longitude": "116.434014"
+      },
+      {
+        "latitude": "39.929570",
+        "longitude": "116.466170"
+      }
+    ]
+  },
+  {
+    "name": "卢沟桥",
+    "coordinates": [
+      {
+        "latitude": "39.850387",
+        "longitude": "116.225969"
+      },
+      {
+        "latitude": "39.850474",
+        "longitude": "116.220684"
+      },
+      {
+        "latitude": "39.856582",
+        "longitude": "116.248528"
+      },
+      {
+        "latitude": "39.850278",
+        "longitude": "116.218791"
+      },
+      {
+        "latitude": "39.862202",
+        "longitude": "116.260677"
+      },
+      {
+        "latitude": "39.850883",
+        "longitude": "116.220740"
+      },
+      {
+        "latitude": "39.851510",
+        "longitude": "116.231585"
+      },
+      {
+        "latitude": "39.873341",
+        "longitude": "116.208646"
+      },
+      {
+        "latitude": "39.850452",
+        "longitude": "116.220189"
+      },
+      {
+        "latitude": "39.850492",
+        "longitude": "116.221734"
+      }
+    ]
+  },
+  {
+    "name": "石景山",
+    "coordinates": [
+      {
+        "latitude": "39.906304",
+        "longitude": "116.223015"
+      },
+      {
+        "latitude": "39.897723",
+        "longitude": "116.229237"
+      },
+      {
+        "latitude": "39.927435",
+        "longitude": "116.141628"
+      },
+      {
+        "latitude": "39.911761",
+        "longitude": "116.193302"
+      },
+      {
+        "latitude": "39.906105",
+        "longitude": "116.213332"
+      },
+      {
+        "latitude": "39.908562",
+        "longitude": "116.206357"
+      },
+      {
+        "latitude": "39.906024",
+        "longitude": "116.201490"
+      },
+      {
+        "latitude": "39.910176",
+        "longitude": "116.206884"
+      },
+      {
+        "latitude": "39.917400",
+        "longitude": "116.148643"
+      },
+      {
+        "latitude": "39.907593",
+        "longitude": "116.169023"
+      }
+    ]
+  },
+  {
+    "name": "房山",
+    "coordinates": [
+      {
+        "latitude": "39.748889",
+        "longitude": "116.143426"
+      },
+      {
+        "latitude": "39.701046",
+        "longitude": "115.987087"
+      },
+      {
+        "latitude": "39.640630",
+        "longitude": "115.610697"
+      },
+      {
+        "latitude": "39.724803",
+        "longitude": "116.182640"
+      },
+      {
+        "latitude": "39.708103",
+        "longitude": "115.992848"
+      },
+      {
+        "latitude": "39.801360",
+        "longitude": "116.272385"
+      },
+      {
+        "latitude": "39.755094",
+        "longitude": "116.186737"
+      },
+      {
+        "latitude": "39.697372",
+        "longitude": "115.989960"
+      },
+      {
+        "latitude": "39.696752",
+        "longitude": "115.984317"
+      },
+      {
+        "latitude": "39.785397",
+        "longitude": "116.225131"
+      }
+    ]
+  },
+  {
+    "name": "良乡",
+    "coordinates": [
+      {
+        "latitude": "39.732128",
+        "longitude": "116.141114"
+      },
+      {
+        "latitude": "39.727567",
+        "longitude": "116.144807"
+      },
+      {
+        "latitude": "39.741636",
+        "longitude": "116.157161"
+      },
+      {
+        "latitude": "39.736801",
+        "longitude": "116.140164"
+      },
+      {
+        "latitude": "39.741506",
+        "longitude": "116.157458"
+      },
+      {
+        "latitude": "39.729482",
+        "longitude": "116.142330"
+      },
+      {
+        "latitude": "39.723202",
+        "longitude": "116.140804"
+      },
+      {
+        "latitude": "39.705226",
+        "longitude": "116.122967"
+      },
+      {
+        "latitude": "39.741334",
+        "longitude": "116.156377"
+      },
+      {
+        "latitude": "39.699713",
+        "longitude": "116.150935"
+      }
+    ]
+  },
+  {
+    "name": "崇青水库",
+    "coordinates": [
+      {
+        "latitude": "39.794042",
+        "longitude": "116.081323"
+      },
+      {
+        "latitude": "39.788323",
+        "longitude": "116.085980"
+      }
+    ]
+  },
+  {
+    "name": "葫芦垡",
+    "coordinates": [
+      {
+        "latitude": "39.701817",
+        "longitude": "116.214291"
+      },
+      {
+        "latitude": "39.704133",
+        "longitude": "116.213464"
+      },
+      {
+        "latitude": "39.733655",
+        "longitude": "116.221082"
+      },
+      {
+        "latitude": "39.700325",
+        "longitude": "116.214310"
+      }
+    ]
+  },
+  {
+    "name": "琉璃河",
+    "coordinates": [
+      {
+        "latitude": "39.602435",
+        "longitude": "116.028697"
+      },
+      {
+        "latitude": "39.604405",
+        "longitude": "116.029203"
+      },
+      {
+        "latitude": "40.499643",
+        "longitude": "116.401289"
+      },
+      {
+        "latitude": "39.612619",
+        "longitude": "116.031847"
+      },
+      {
+        "latitude": "39.596631",
+        "longitude": "116.060709"
+      },
+      {
+        "latitude": "39.599976",
+        "longitude": "116.062147"
+      },
+      {
+        "latitude": "40.590882",
+        "longitude": "116.483353"
+      },
+      {
+        "latitude": "39.599241",
+        "longitude": "116.062496"
+      },
+      {
+        "latitude": "39.605758",
+        "longitude": "116.051982"
+      },
+      {
+        "latitude": "40.571764",
+        "longitude": "116.574766"
+      }
+    ]
+  },
+  {
+    "name": "天开",
+    "coordinates": [
+      {
+        "latitude": "39.631462",
+        "longitude": "115.883526"
+      },
+      {
+        "latitude": "39.630238",
+        "longitude": "115.879639"
+      },
+      {
+        "latitude": "39.626910",
+        "longitude": "115.887262"
+      },
+      {
+        "latitude": "39.626294",
+        "longitude": "115.891248"
+      },
+      {
+        "latitude": "39.626113",
+        "longitude": "115.898283"
+      },
+      {
+        "latitude": "39.612131",
+        "longitude": "115.902010"
+      },
+      {
+        "latitude": "39.619465",
+        "longitude": "115.894586"
+      },
+      {
+        "latitude": "39.618233",
+        "longitude": "115.896205"
+      },
+      {
+        "latitude": "39.630403",
+        "longitude": "115.889673"
+      },
+      {
+        "latitude": "39.632876",
+        "longitude": "115.881336"
+      }
+    ]
+  },
+  {
+    "name": "十渡",
+    "coordinates": [
+      {
+        "latitude": "39.640630",
+        "longitude": "115.610697"
+      },
+      {
+        "latitude": "39.597183",
+        "longitude": "115.691299"
+      },
+      {
+        "latitude": "39.636161",
+        "longitude": "115.592766"
+      },
+      {
+        "latitude": "39.647195",
+        "longitude": "115.589443"
+      },
+      {
+        "latitude": "39.639978",
+        "longitude": "115.588633"
+      },
+      {
+        "latitude": "39.645115",
+        "longitude": "115.595401"
+      },
+      {
+        "latitude": "39.638372",
+        "longitude": "115.588700"
+      },
+      {
+        "latitude": "39.636674",
+        "longitude": "115.584977"
+      },
+      {
+        "latitude": "39.634400",
+        "longitude": "115.596450"
+      },
+      {
+        "latitude": "39.632105",
+        "longitude": "115.624433"
+      }
+    ]
+  },
+  {
+    "name": "张坊",
+    "coordinates": [
+      {
+        "latitude": "39.570399",
+        "longitude": "115.718537"
+      },
+      {
+        "latitude": "39.555701",
+        "longitude": "115.754170"
+      },
+      {
+        "latitude": "39.576751",
+        "longitude": "115.716787"
+      },
+      {
+        "latitude": "39.571024",
+        "longitude": "115.714478"
+      },
+      {
+        "latitude": "39.555478",
+        "longitude": "115.754280"
+      },
+      {
+        "latitude": "39.554462",
+        "longitude": "115.757124"
+      },
+      {
+        "latitude": "39.570270",
+        "longitude": "115.722412"
+      },
+      {
+        "latitude": "39.571135",
+        "longitude": "115.714537"
+      },
+      {
+        "latitude": "39.562299",
+        "longitude": "115.712710"
+      },
+      {
+        "latitude": "39.570806",
+        "longitude": "115.715737"
+      }
+    ]
+  },
+  {
+    "name": "史家营",
+    "coordinates": [
+      {
+        "latitude": "39.829998",
+        "longitude": "115.725499"
+      },
+      {
+        "latitude": "39.858111",
+        "longitude": "115.669175"
+      },
+      {
+        "latitude": "39.851308",
+        "longitude": "115.663195"
+      },
+      {
+        "latitude": "39.853069",
+        "longitude": "115.669258"
+      },
+      {
+        "latitude": "39.858355",
+        "longitude": "115.669918"
+      },
+      {
+        "latitude": "39.858715",
+        "longitude": "115.669975"
+      },
+      {
+        "latitude": "39.851856",
+        "longitude": "115.661226"
+      },
+      {
+        "latitude": "39.856649",
+        "longitude": "115.669212"
+      },
+      {
+        "latitude": "39.853403",
+        "longitude": "115.674631"
+      },
+      {
+        "latitude": "39.732035",
+        "longitude": "116.221816"
+      }
+    ]
+  },
+  {
+    "name": "漫水河",
+    "coordinates": [
+      {
+        "latitude": "39.790701",
+        "longitude": "116.008973"
+      },
+      {
+        "latitude": "39.789342",
+        "longitude": "116.009401"
+      },
+      {
+        "latitude": "39.789313",
+        "longitude": "116.009455"
+      },
+      {
+        "latitude": "39.789192",
+        "longitude": "116.009341"
+      },
+      {
+        "latitude": "39.790339",
+        "longitude": "116.011359"
+      },
+      {
+        "latitude": "39.789354",
+        "longitude": "116.009421"
+      },
+      {
+        "latitude": "39.791214",
+        "longitude": "116.013462"
+      },
+      {
+        "latitude": "39.789230",
+        "longitude": "116.010384"
+      }
+    ]
+  },
+  {
+    "name": "蒲洼",
+    "coordinates": [
+      {
+        "latitude": "39.703766",
+        "longitude": "115.558334"
+      },
+      {
+        "latitude": "39.774666",
+        "longitude": "115.555653"
+      },
+      {
+        "latitude": "39.733724",
+        "longitude": "115.535542"
+      },
+      {
+        "latitude": "39.734200",
+        "longitude": "115.536162"
+      },
+      {
+        "latitude": "39.734256",
+        "longitude": "115.536536"
+      },
+      {
+        "latitude": "39.734926",
+        "longitude": "115.536490"
+      },
+      {
+        "latitude": "39.780027",
+        "longitude": "115.531148"
+      },
+      {
+        "latitude": "39.765114",
+        "longitude": "115.557329"
+      },
+      {
+        "latitude": "39.734069",
+        "longitude": "115.535354"
+      },
+      {
+        "latitude": "39.725998",
+        "longitude": "115.538190"
+      }
+    ]
+  },
+  {
+    "name": "霞云岭",
+    "coordinates": [
+      {
+        "latitude": "39.754438",
+        "longitude": "115.700209"
+      },
+      {
+        "latitude": "39.736299",
+        "longitude": "115.749466"
+      },
+      {
+        "latitude": "39.737763",
+        "longitude": "115.749073"
+      },
+      {
+        "latitude": "39.738416",
+        "longitude": "115.747415"
+      },
+      {
+        "latitude": "39.738506",
+        "longitude": "115.747466"
+      },
+      {
+        "latitude": "39.738346",
+        "longitude": "115.747634"
+      },
+      {
+        "latitude": "39.729321",
+        "longitude": "115.747161"
+      },
+      {
+        "latitude": "39.727146",
+        "longitude": "115.745468"
+      },
+      {
+        "latitude": "39.728807",
+        "longitude": "115.746654"
+      },
+      {
+        "latitude": "39.729057",
+        "longitude": "115.750800"
+      }
+    ]
+  },
+  {
+    "name": "南窖",
+    "coordinates": [
+      {
+        "latitude": "39.763281",
+        "longitude": "115.858394"
+      },
+      {
+        "latitude": "39.764819",
+        "longitude": "115.848873"
+      },
+      {
+        "latitude": "39.765308",
+        "longitude": "115.847855"
+      },
+      {
+        "latitude": "39.769020",
+        "longitude": "115.841347"
+      },
+      {
+        "latitude": "39.768694",
+        "longitude": "115.842726"
+      },
+      {
+        "latitude": "39.768224",
+        "longitude": "115.842205"
+      },
+      {
+        "latitude": "39.766723",
+        "longitude": "115.845156"
+      },
+      {
+        "latitude": "39.820976",
+        "longitude": "115.855141"
+      },
+      {
+        "latitude": "39.770538",
+        "longitude": "115.837878"
+      },
+      {
+        "latitude": "39.763498",
+        "longitude": "115.854935"
+      }
+    ]
+  },
+  {
+    "name": "大安山",
+    "coordinates": [
+      {
+        "latitude": "39.885606",
+        "longitude": "115.784580"
+      },
+      {
+        "latitude": "39.887079",
+        "longitude": "115.785317"
+      },
+      {
+        "latitude": "40.624251",
+        "longitude": "116.091931"
+      },
+      {
+        "latitude": "39.887767",
+        "longitude": "115.786613"
+      },
+      {
+        "latitude": "39.888973",
+        "longitude": "115.785604"
+      },
+      {
+        "latitude": "39.885604",
+        "longitude": "115.776302"
+      },
+      {
+        "latitude": "39.885618",
+        "longitude": "115.784663"
+      },
+      {
+        "latitude": "39.896823",
+        "longitude": "115.772648"
+      },
+      {
+        "latitude": "39.886476",
+        "longitude": "115.774071"
+      },
+      {
+        "latitude": "39.887199",
+        "longitude": "115.782730"
+      }
+    ]
+  },
+  {
+    "name": "官厅",
+    "coordinates": [
+      {
+        "latitude": "40.398723",
+        "longitude": "115.798830"
+      },
+      {
+        "latitude": "40.347798",
+        "longitude": "115.675948"
+      },
+      {
+        "latitude": "40.257956",
+        "longitude": "115.618023"
+      },
+      {
+        "latitude": "40.391273",
+        "longitude": "115.792757"
+      },
+      {
+        "latitude": "40.252160",
+        "longitude": "115.589040"
+      },
+      {
+        "latitude": "40.256497",
+        "longitude": "115.590371"
+      },
+      {
+        "latitude": "40.335183",
+        "longitude": "115.579434"
+      },
+      {
+        "latitude": "40.449997",
+        "longitude": "115.879945"
+      },
+      {
+        "latitude": "40.251038",
+        "longitude": "115.582245"
+      },
+      {
+        "latitude": "40.251484",
+        "longitude": "115.567361"
+      }
+    ]
+  },
+  {
+    "name": "沿河城",
+    "coordinates": [
+      {
+        "latitude": "40.069842",
+        "longitude": "115.726468"
+      },
+      {
+        "latitude": "40.065775",
+        "longitude": "115.708635"
+      },
+      {
+        "latitude": "40.069295",
+        "longitude": "115.724710"
+      },
+      {
+        "latitude": "40.041126",
+        "longitude": "116.717808"
+      },
+      {
+        "latitude": "40.068645",
+        "longitude": "115.721612"
+      },
+      {
+        "latitude": "40.098994",
+        "longitude": "115.720700"
+      },
+      {
+        "latitude": "40.069770",
+        "longitude": "115.724262"
+      },
+      {
+        "latitude": "40.070063",
+        "longitude": "115.727143"
+      },
+      {
+        "latitude": "40.070065",
+        "longitude": "115.726283"
+      },
+      {
+        "latitude": "40.040163",
+        "longitude": "116.714858"
+      }
+    ]
+  },
+  {
+    "name": "黄塔",
+    "coordinates": [
+      {
+        "latitude": "39.863497",
+        "longitude": "115.561393"
+      },
+      {
+        "latitude": "39.915203",
+        "longitude": "115.566875"
+      },
+      {
+        "latitude": "39.863741",
+        "longitude": "115.561760"
+      },
+      {
+        "latitude": "39.866493",
+        "longitude": "115.563316"
+      },
+      {
+        "latitude": "39.863347",
+        "longitude": "115.562102"
+      },
+      {
+        "latitude": "39.867213",
+        "longitude": "115.562978"
+      },
+      {
+        "latitude": "39.849271",
+        "longitude": "115.556319"
+      },
+      {
+        "latitude": "39.925813",
+        "longitude": "115.572830"
+      },
+      {
+        "latitude": "39.839480",
+        "longitude": "115.578995"
+      },
+      {
+        "latitude": "39.910518",
+        "longitude": "115.567401"
+      }
+    ]
+  },
+  {
+    "name": "大村",
+    "coordinates": [
+      {
+        "latitude": "40.119680",
+        "longitude": "115.868036"
+      },
+      {
+        "latitude": "40.113746",
+        "longitude": "115.860046"
+      },
+      {
+        "latitude": "40.112969",
+        "longitude": "115.859121"
+      },
+      {
+        "latitude": "40.113715",
+        "longitude": "115.866646"
+      },
+      {
+        "latitude": "39.865841",
+        "longitude": "115.669227"
+      },
+      {
+        "latitude": "40.113048",
+        "longitude": "115.859352"
+      },
+      {
+        "latitude": "40.116964",
+        "longitude": "115.863761"
+      },
+      {
+        "latitude": "40.111003",
+        "longitude": "115.863051"
+      },
+      {
+        "latitude": "40.113060",
+        "longitude": "115.859419"
+      },
+      {
+        "latitude": "40.112314",
+        "longitude": "115.861465"
+      }
+    ]
+  },
+  {
+    "name": "上苇甸",
+    "coordinates": [
+      {
+        "latitude": "40.019942",
+        "longitude": "115.994785"
+      },
+      {
+        "latitude": "40.034119",
+        "longitude": "115.994214"
+      },
+      {
+        "latitude": "40.030689",
+        "longitude": "115.993858"
+      },
+      {
+        "latitude": "40.030359",
+        "longitude": "115.994582"
+      },
+      {
+        "latitude": "40.033432",
+        "longitude": "115.992363"
+      },
+      {
+        "latitude": "40.030307",
+        "longitude": "115.994390"
+      },
+      {
+        "latitude": "40.006707",
+        "longitude": "116.007858"
+      },
+      {
+        "latitude": "40.032816",
+        "longitude": "115.992805"
+      },
+      {
+        "latitude": "40.029618",
+        "longitude": "115.995282"
+      },
+      {
+        "latitude": "40.030252",
+        "longitude": "115.994712"
+      }
+    ]
+  },
+  {
+    "name": "齐家庄",
+    "coordinates": [
+      {
+        "latitude": "39.939877",
+        "longitude": "115.506714"
+      },
+      {
+        "latitude": "39.933946",
+        "longitude": "115.515437"
+      },
+      {
+        "latitude": "39.943833",
+        "longitude": "115.509533"
+      },
+      {
+        "latitude": "39.942868",
+        "longitude": "115.512257"
+      },
+      {
+        "latitude": "39.934929",
+        "longitude": "115.519271"
+      },
+      {
+        "latitude": "39.941949",
+        "longitude": "115.511163"
+      },
+      {
+        "latitude": "39.941250",
+        "longitude": "115.509212"
+      },
+      {
+        "latitude": "39.939952",
+        "longitude": "115.508191"
+      },
+      {
+        "latitude": "39.972265",
+        "longitude": "115.508732"
+      },
+      {
+        "latitude": "39.941991",
+        "longitude": "115.511003"
+      }
+    ]
+  },
+  {
+    "name": "洪水峪",
+    "coordinates": [
+      {
+        "latitude": "39.907856",
+        "longitude": "115.663702"
+      },
+      {
+        "latitude": "39.909230",
+        "longitude": "115.659456"
+      },
+      {
+        "latitude": "39.906828",
+        "longitude": "115.663159"
+      },
+      {
+        "latitude": "39.906738",
+        "longitude": "115.663179"
+      },
+      {
+        "latitude": "39.906831",
+        "longitude": "115.663162"
+      },
+      {
+        "latitude": "39.906816",
+        "longitude": "115.663109"
+      },
+      {
+        "latitude": "39.906661",
+        "longitude": "115.663171"
+      },
+      {
+        "latitude": "39.906800",
+        "longitude": "115.663054"
+      },
+      {
+        "latitude": "39.902364",
+        "longitude": "115.658270"
+      }
+    ]
+  },
+  {
+    "name": "燕家台",
+    "coordinates": [
+      {
+        "latitude": "40.001280",
+        "longitude": "115.570452"
+      },
+      {
+        "latitude": "40.001603",
+        "longitude": "115.570864"
+      },
+      {
+        "latitude": "40.022310",
+        "longitude": "115.560624"
+      },
+      {
+        "latitude": "40.001503",
+        "longitude": "115.570881"
+      },
+      {
+        "latitude": "40.001695",
+        "longitude": "115.571065"
+      },
+      {
+        "latitude": "40.019804",
+        "longitude": "115.576999"
+      },
+      {
+        "latitude": "40.001597",
+        "longitude": "115.570830"
+      },
+      {
+        "latitude": "40.013991",
+        "longitude": "115.566990"
+      },
+      {
+        "latitude": "40.025298",
+        "longitude": "115.570005"
+      },
+      {
+        "latitude": "40.021402",
+        "longitude": "115.575008"
+      }
+    ]
+  },
+  {
+    "name": "大台",
+    "coordinates": [
+      {
+        "latitude": "39.967049",
+        "longitude": "115.941319"
+      },
+      {
+        "latitude": "39.967401",
+        "longitude": "115.941494"
+      },
+      {
+        "latitude": "39.965670",
+        "longitude": "115.939806"
+      },
+      {
+        "latitude": "39.986489",
+        "longitude": "115.981927"
+      },
+      {
+        "latitude": "39.969707",
+        "longitude": "115.943429"
+      },
+      {
+        "latitude": "39.908703",
+        "longitude": "116.726207"
+      },
+      {
+        "latitude": "39.968937",
+        "longitude": "115.944796"
+      },
+      {
+        "latitude": "39.964726",
+        "longitude": "115.941893"
+      },
+      {
+        "latitude": "39.963775",
+        "longitude": "115.939702"
+      },
+      {
+        "latitude": "39.967124",
+        "longitude": "115.942099"
+      }
+    ]
+  },
+  {
+    "name": "斋堂",
+    "coordinates": [
+      {
+        "latitude": "39.974609",
+        "longitude": "115.701658"
+      },
+      {
+        "latitude": "39.974749",
+        "longitude": "115.702048"
+      },
+      {
+        "latitude": "39.977286",
+        "longitude": "115.704792"
+      },
+      {
+        "latitude": "39.963058",
+        "longitude": "115.675350"
+      },
+      {
+        "latitude": "39.972721",
+        "longitude": "115.696113"
+      },
+      {
+        "latitude": "39.971357",
+        "longitude": "115.697544"
+      },
+      {
+        "latitude": "39.972428",
+        "longitude": "115.698115"
+      },
+      {
+        "latitude": "39.979470",
+        "longitude": "115.710701"
+      },
+      {
+        "latitude": "39.940913",
+        "longitude": "116.390696"
+      },
+      {
+        "latitude": "39.979338",
+        "longitude": "115.710766"
+      }
+    ]
+  },
+  {
+    "name": "清水",
+    "coordinates": [
+      {
+        "latitude": "39.947312",
+        "longitude": "116.435126"
+      },
+      {
+        "latitude": "39.810367",
+        "longitude": "116.491401"
+      },
+      {
+        "latitude": "40.048485",
+        "longitude": "116.400781"
+      },
+      {
+        "latitude": "39.943895",
+        "longitude": "115.633606"
+      },
+      {
+        "latitude": "39.943657",
+        "longitude": "115.644010"
+      },
+      {
+        "latitude": "39.944561",
+        "longitude": "115.632259"
+      },
+      {
+        "latitude": "40.526516",
+        "longitude": "117.043252"
+      },
+      {
+        "latitude": "40.008834",
+        "longitude": "115.801847"
+      },
+      {
+        "latitude": "39.716157",
+        "longitude": "116.151024"
+      },
+      {
+        "latitude": "39.934947",
+        "longitude": "115.588773"
+      }
+    ]
+  },
+  {
+    "name": "青白口",
+    "coordinates": [
+      {
+        "latitude": "40.015513",
+        "longitude": "115.821716"
+      },
+      {
+        "latitude": "40.014400",
+        "longitude": "115.822578"
+      },
+      {
+        "latitude": "40.013189",
+        "longitude": "115.829638"
+      },
+      {
+        "latitude": "40.015545",
+        "longitude": "115.812782"
+      },
+      {
+        "latitude": "40.013364",
+        "longitude": "115.804408"
+      },
+      {
+        "latitude": "40.015819",
+        "longitude": "115.825116"
+      },
+      {
+        "latitude": "40.014561",
+        "longitude": "115.825666"
+      },
+      {
+        "latitude": "40.015157",
+        "longitude": "115.821006"
+      },
+      {
+        "latitude": "40.013221",
+        "longitude": "115.825656"
+      },
+      {
+        "latitude": "40.015166",
+        "longitude": "115.819773"
+      }
+    ]
+  },
+  {
+    "name": "雁翅",
+    "coordinates": [
+      {
+        "latitude": "40.035485",
+        "longitude": "115.897221"
+      },
+      {
+        "latitude": "40.033646",
+        "longitude": "115.897041"
+      },
+      {
+        "latitude": "40.013785",
+        "longitude": "115.821707"
+      },
+      {
+        "latitude": "39.913549",
+        "longitude": "116.397883"
+      },
+      {
+        "latitude": "39.913525",
+        "longitude": "116.396678"
+      },
+      {
+        "latitude": "40.013724",
+        "longitude": "115.821646"
+      },
+      {
+        "latitude": "40.033794",
+        "longitude": "115.896563"
+      },
+      {
+        "latitude": "40.036800",
+        "longitude": "115.906750"
+      },
+      {
+        "latitude": "40.034044",
+        "longitude": "115.897005"
+      },
+      {
+        "latitude": "40.036509",
+        "longitude": "115.902126"
+      }
+    ]
+  },
+  {
+    "name": "三家店",
+    "coordinates": [
+      {
+        "latitude": "39.962196",
+        "longitude": "116.110477"
+      },
+      {
+        "latitude": "39.951416",
+        "longitude": "116.120284"
+      },
+      {
+        "latitude": "39.949709",
+        "longitude": "116.118290"
+      },
+      {
+        "latitude": "39.968078",
+        "longitude": "116.101754"
+      },
+      {
+        "latitude": "39.970184",
+        "longitude": "116.099649"
+      },
+      {
+        "latitude": "39.962612",
+        "longitude": "116.108036"
+      },
+      {
+        "latitude": "39.950191",
+        "longitude": "116.120210"
+      },
+      {
+        "latitude": "40.145943",
+        "longitude": "116.614046"
+      },
+      {
+        "latitude": "40.149788",
+        "longitude": "116.615392"
+      },
+      {
+        "latitude": "39.955360",
+        "longitude": "116.110402"
+      }
+    ]
+  },
+  {
+    "name": "南辛房",
+    "coordinates": [
+      {
+        "latitude": "39.885399",
+        "longitude": "116.026962"
+      },
+      {
+        "latitude": "39.884510",
+        "longitude": "116.027201"
+      },
+      {
+        "latitude": "39.888279",
+        "longitude": "116.026862"
+      },
+      {
+        "latitude": "39.890526",
+        "longitude": "116.020150"
+      },
+      {
+        "latitude": "39.885357",
+        "longitude": "116.025773"
+      },
+      {
+        "latitude": "39.889042",
+        "longitude": "116.026485"
+      },
+      {
+        "latitude": "39.885557",
+        "longitude": "116.025439"
+      },
+      {
+        "latitude": "39.885267",
+        "longitude": "116.025937"
+      },
+      {
+        "latitude": "39.885405",
+        "longitude": "116.025689"
+      },
+      {
+        "latitude": "39.885284",
+        "longitude": "116.025899"
+      }
+    ]
+  },
+  {
+    "name": "军响",
+    "coordinates": [
+      {
+        "latitude": "39.995298",
+        "longitude": "115.771667"
+      },
+      {
+        "latitude": "39.996699",
+        "longitude": "115.776816"
+      },
+      {
+        "latitude": "39.995350",
+        "longitude": "115.769682"
+      },
+      {
+        "latitude": "39.995693",
+        "longitude": "115.769681"
+      },
+      {
+        "latitude": "39.996490",
+        "longitude": "115.774980"
+      },
+      {
+        "latitude": "40.000240",
+        "longitude": "115.779621"
+      },
+      {
+        "latitude": "39.995350",
+        "longitude": "115.769681"
+      },
+      {
+        "latitude": "39.995370",
+        "longitude": "115.769671"
+      },
+      {
+        "latitude": "39.995677",
+        "longitude": "115.769830"
+      },
+      {
+        "latitude": "40.000275",
+        "longitude": "115.775048"
+      }
+    ]
+  },
+  {
+    "name": "延庆",
+    "coordinates": [
+      {
+        "latitude": "40.457033",
+        "longitude": "115.974609"
+      },
+      {
+        "latitude": "40.436303",
+        "longitude": "115.982932"
+      },
+      {
+        "latitude": "39.892065",
+        "longitude": "116.427142"
+      },
+      {
+        "latitude": "40.461780",
+        "longitude": "115.985279"
+      },
+      {
+        "latitude": "39.945963",
+        "longitude": "116.312197"
+      },
+      {
+        "latitude": "40.436508",
+        "longitude": "115.984674"
+      },
+      {
+        "latitude": "40.457033",
+        "longitude": "115.974609"
+      },
+      {
+        "latitude": "40.458628",
+        "longitude": "115.984692"
+      },
+      {
+        "latitude": "40.462123",
+        "longitude": "115.977223"
+      },
+      {
+        "latitude": "40.457873",
+        "longitude": "115.978611"
+      }
+    ]
+  },
+  {
+    "name": "千家店",
+    "coordinates": [
+      {
+        "latitude": "40.693897",
+        "longitude": "116.346704"
+      },
+      {
+        "latitude": "40.694671",
+        "longitude": "116.349306"
+      },
+      {
+        "latitude": "40.693234",
+        "longitude": "116.344682"
+      },
+      {
+        "latitude": "40.692300",
+        "longitude": "116.343442"
+      },
+      {
+        "latitude": "40.694328",
+        "longitude": "116.347917"
+      },
+      {
+        "latitude": "39.944581",
+        "longitude": "116.369690"
+      },
+      {
+        "latitude": "40.693235",
+        "longitude": "116.346532"
+      },
+      {
+        "latitude": "40.694086",
+        "longitude": "116.348238"
+      },
+      {
+        "latitude": "40.693941",
+        "longitude": "116.347625"
+      },
+      {
+        "latitude": "40.693918",
+        "longitude": "116.347839"
+      }
+    ]
+  },
+  {
+    "name": "大庄科",
+    "coordinates": [
+      {
+        "latitude": "40.431678",
+        "longitude": "116.237610"
+      },
+      {
+        "latitude": "40.437023",
+        "longitude": "116.230225"
+      },
+      {
+        "latitude": "40.431927",
+        "longitude": "116.235442"
+      },
+      {
+        "latitude": "40.431406",
+        "longitude": "116.237209"
+      },
+      {
+        "latitude": "40.436294",
+        "longitude": "116.228426"
+      },
+      {
+        "latitude": "40.435780",
+        "longitude": "116.230587"
+      },
+      {
+        "latitude": "40.436027",
+        "longitude": "116.230873"
+      },
+      {
+        "latitude": "40.434080",
+        "longitude": "116.231787"
+      },
+      {
+        "latitude": "40.431740",
+        "longitude": "116.235878"
+      },
+      {
+        "latitude": "40.439423",
+        "longitude": "116.228733"
+      }
+    ]
+  },
+  {
+    "name": "康庄",
+    "coordinates": [
+      {
+        "latitude": "40.383825",
+        "longitude": "115.900509"
+      },
+      {
+        "latitude": "40.371898",
+        "longitude": "115.901807"
+      },
+      {
+        "latitude": "40.361042",
+        "longitude": "115.908262"
+      },
+      {
+        "latitude": "39.757233",
+        "longitude": "116.325202"
+      },
+      {
+        "latitude": "40.361087",
+        "longitude": "115.908202"
+      },
+      {
+        "latitude": "40.383227",
+        "longitude": "115.900066"
+      },
+      {
+        "latitude": "39.837962",
+        "longitude": "116.308776"
+      },
+      {
+        "latitude": "40.373043",
+        "longitude": "115.909078"
+      },
+      {
+        "latitude": "39.755599",
+        "longitude": "116.342233"
+      },
+      {
+        "latitude": "39.756046",
+        "longitude": "116.340764"
+      }
+    ]
+  },
+  {
+    "name": "永宁",
+    "coordinates": [
+      {
+        "latitude": "40.524227",
+        "longitude": "116.169312"
+      },
+      {
+        "latitude": "40.520646",
+        "longitude": "116.162167"
+      },
+      {
+        "latitude": "39.902599",
+        "longitude": "116.366536"
+      },
+      {
+        "latitude": "40.522865",
+        "longitude": "116.166613"
+      },
+      {
+        "latitude": "39.760582",
+        "longitude": "116.226489"
+      },
+      {
+        "latitude": "40.347215",
+        "longitude": "116.786357"
+      },
+      {
+        "latitude": "40.529444",
+        "longitude": "116.166376"
+      },
+      {
+        "latitude": "40.524837",
+        "longitude": "116.168317"
+      },
+      {
+        "latitude": "40.525633",
+        "longitude": "116.174008"
+      },
+      {
+        "latitude": "40.529466",
+        "longitude": "116.162899"
+      }
+    ]
+  },
+  {
+    "name": "香村营",
+    "coordinates": [
+      {
+        "latitude": "40.500582",
+        "longitude": "116.092986"
+      },
+      {
+        "latitude": "40.497321",
+        "longitude": "116.087387"
+      },
+      {
+        "latitude": "40.503498",
+        "longitude": "116.098047"
+      },
+      {
+        "latitude": "40.499799",
+        "longitude": "116.099067"
+      },
+      {
+        "latitude": "40.495261",
+        "longitude": "116.090366"
+      },
+      {
+        "latitude": "40.493663",
+        "longitude": "116.091897"
+      },
+      {
+        "latitude": "40.499239",
+        "longitude": "116.094182"
+      },
+      {
+        "latitude": "40.496749",
+        "longitude": "116.091064"
+      },
+      {
+        "latitude": "40.498499",
+        "longitude": "116.092331"
+      }
+    ]
+  },
+  {
+    "name": "白河堡水库",
+    "coordinates": [
+      {
+        "latitude": "40.645950",
+        "longitude": "116.172951"
+      },
+      {
+        "latitude": "40.653571",
+        "longitude": "116.183062"
+      },
+      {
+        "latitude": "40.578650",
+        "longitude": "116.149306"
+      },
+      {
+        "latitude": "40.655617",
+        "longitude": "116.186211"
+      },
+      {
+        "latitude": "40.652543",
+        "longitude": "116.191041"
+      }
+    ]
+  },
+  {
+    "name": "下堡",
+    "coordinates": [
+      {
+        "latitude": "40.396600",
+        "longitude": "117.203011"
+      },
+      {
+        "latitude": "40.398267",
+        "longitude": "117.204643"
+      },
+      {
+        "latitude": "40.398267",
+        "longitude": "117.204643"
+      }
+    ]
+  },
+  {
+    "name": "张山营",
+    "coordinates": [
+      {
+        "latitude": "40.478928",
+        "longitude": "115.859080"
+      },
+      {
+        "latitude": "40.465604",
+        "longitude": "115.847933"
+      },
+      {
+        "latitude": "40.475712",
+        "longitude": "115.858412"
+      },
+      {
+        "latitude": "40.437299",
+        "longitude": "115.790147"
+      },
+      {
+        "latitude": "40.467808",
+        "longitude": "115.852427"
+      },
+      {
+        "latitude": "40.463063",
+        "longitude": "115.841407"
+      },
+      {
+        "latitude": "40.478753",
+        "longitude": "115.859277"
+      },
+      {
+        "latitude": "40.476886",
+        "longitude": "115.843973"
+      },
+      {
+        "latitude": "40.479958",
+        "longitude": "115.861038"
+      },
+      {
+        "latitude": "40.501904",
+        "longitude": "115.860800"
+      }
+    ]
+  },
+  {
+    "name": "四海",
+    "coordinates": [
+      {
+        "latitude": "40.529672",
+        "longitude": "116.411324"
+      },
+      {
+        "latitude": "40.525755",
+        "longitude": "116.410443"
+      },
+      {
+        "latitude": "40.528407",
+        "longitude": "116.412288"
+      },
+      {
+        "latitude": "40.526737",
+        "longitude": "116.412010"
+      },
+      {
+        "latitude": "40.525647",
+        "longitude": "116.411834"
+      },
+      {
+        "latitude": "40.524557",
+        "longitude": "116.411646"
+      },
+      {
+        "latitude": "40.529397",
+        "longitude": "116.415617"
+      },
+      {
+        "latitude": "39.969872",
+        "longitude": "116.273210"
+      },
+      {
+        "latitude": "39.970637",
+        "longitude": "116.275505"
+      },
+      {
+        "latitude": "39.968032",
+        "longitude": "116.274615"
+      }
+    ]
+  },
+  {
+    "name": "碓臼峪",
+    "coordinates": [
+      {
+        "latitude": "40.365170",
+        "longitude": "116.206325"
+      },
+      {
+        "latitude": "40.348997",
+        "longitude": "116.191200"
+      },
+      {
+        "latitude": "40.348458",
+        "longitude": "116.192091"
+      },
+      {
+        "latitude": "40.347170",
+        "longitude": "116.193746"
+      },
+      {
+        "latitude": "40.348278",
+        "longitude": "116.192389"
+      },
+      {
+        "latitude": "40.344533",
+        "longitude": "116.193783"
+      },
+      {
+        "latitude": "40.369551",
+        "longitude": "116.224440"
+      },
+      {
+        "latitude": "40.338500",
+        "longitude": "116.192785"
+      },
+      {
+        "latitude": "40.341709",
+        "longitude": "116.193554"
+      },
+      {
+        "latitude": "40.343810",
+        "longitude": "116.192994"
+      }
+    ]
+  },
+  {
+    "name": "密云",
+    "coordinates": [
+      {
+        "latitude": "40.377058",
+        "longitude": "116.843351"
+      },
+      {
+        "latitude": "40.517502",
+        "longitude": "116.913914"
+      },
+      {
+        "latitude": "40.323328",
+        "longitude": "116.770431"
+      },
+      {
+        "latitude": "40.341596",
+        "longitude": "116.831266"
+      },
+      {
+        "latitude": "40.341844",
+        "longitude": "116.831200"
+      },
+      {
+        "latitude": "40.319406",
+        "longitude": "116.774313"
+      },
+      {
+        "latitude": "40.377058",
+        "longitude": "116.843351"
+      },
+      {
+        "latitude": "40.352361",
+        "longitude": "116.851015"
+      },
+      {
+        "latitude": "40.344985",
+        "longitude": "116.833783"
+      },
+      {
+        "latitude": "40.321420",
+        "longitude": "116.772499"
+      }
+    ]
+  },
+  {
+    "name": "大城子",
+    "coordinates": [
+      {
+        "latitude": "40.390150",
+        "longitude": "117.088534"
+      },
+      {
+        "latitude": "40.389379",
+        "longitude": "117.088659"
+      },
+      {
+        "latitude": "40.389379",
+        "longitude": "117.088659"
+      },
+      {
+        "latitude": "40.399881",
+        "longitude": "117.117216"
+      },
+      {
+        "latitude": "40.416467",
+        "longitude": "117.155176"
+      },
+      {
+        "latitude": "40.388908",
+        "longitude": "117.085473"
+      },
+      {
+        "latitude": "40.393562",
+        "longitude": "117.109529"
+      },
+      {
+        "latitude": "40.393750",
+        "longitude": "117.112569"
+      },
+      {
+        "latitude": "40.389089",
+        "longitude": "117.087465"
+      },
+      {
+        "latitude": "40.393392",
+        "longitude": "117.107230"
+      }
+    ]
+  },
+  {
+    "name": "北庄",
+    "coordinates": [
+      {
+        "latitude": "39.723592",
+        "longitude": "115.974267"
+      },
+      {
+        "latitude": "39.717380",
+        "longitude": "115.984648"
+      },
+      {
+        "latitude": "40.494216",
+        "longitude": "117.176249"
+      },
+      {
+        "latitude": "39.723419",
+        "longitude": "115.967935"
+      },
+      {
+        "latitude": "40.509982",
+        "longitude": "117.182588"
+      },
+      {
+        "latitude": "40.494415",
+        "longitude": "117.176186"
+      },
+      {
+        "latitude": "40.494216",
+        "longitude": "117.176249"
+      },
+      {
+        "latitude": "40.184761",
+        "longitude": "116.062913"
+      },
+      {
+        "latitude": "40.509157",
+        "longitude": "117.181829"
+      },
+      {
+        "latitude": "39.725192",
+        "longitude": "115.971421"
+      }
+    ]
+  },
+  {
+    "name": "新城子",
+    "coordinates": [
+      {
+        "latitude": "40.643903",
+        "longitude": "117.334706"
+      },
+      {
+        "latitude": "40.637847",
+        "longitude": "117.329158"
+      },
+      {
+        "latitude": "40.642335",
+        "longitude": "117.331295"
+      },
+      {
+        "latitude": "40.644102",
+        "longitude": "117.335642"
+      },
+      {
+        "latitude": "40.638043",
+        "longitude": "117.329679"
+      },
+      {
+        "latitude": "40.643329",
+        "longitude": "117.335004"
+      },
+      {
+        "latitude": "40.644327",
+        "longitude": "117.336467"
+      },
+      {
+        "latitude": "40.639887",
+        "longitude": "117.331385"
+      },
+      {
+        "latitude": "40.643060",
+        "longitude": "117.334731"
+      },
+      {
+        "latitude": "40.640037",
+        "longitude": "117.331291"
+      }
+    ]
+  },
+  {
+    "name": "番子牌",
+    "coordinates": [
+      {
+        "latitude": "40.739320",
+        "longitude": "116.891583"
+      },
+      {
+        "latitude": "40.741247",
+        "longitude": "116.884234"
+      },
+      {
+        "latitude": "40.739462",
+        "longitude": "116.891285"
+      },
+      {
+        "latitude": "40.739437",
+        "longitude": "116.890584"
+      },
+      {
+        "latitude": "40.741242",
+        "longitude": "116.884004"
+      },
+      {
+        "latitude": "40.381338",
+        "longitude": "116.835420"
+      }
+    ]
+  },
+  {
+    "name": "沙厂水库",
+    "coordinates": [
+      {
+        "latitude": "40.394689",
+        "longitude": "117.037776"
+      },
+      {
+        "latitude": "40.379619",
+        "longitude": "117.037915"
+      },
+      {
+        "latitude": "40.381154",
+        "longitude": "117.024969"
+      },
+      {
+        "latitude": "40.391143",
+        "longitude": "117.015889"
+      },
+      {
+        "latitude": "40.386404",
+        "longitude": "117.030882"
+      },
+      {
+        "latitude": "40.355883",
+        "longitude": "116.796839"
+      },
+      {
+        "latitude": "40.383896",
+        "longitude": "117.022583"
+      },
+      {
+        "latitude": "40.384229",
+        "longitude": "117.046866"
+      },
+      {
+        "latitude": "40.378597",
+        "longitude": "117.033092"
+      },
+      {
+        "latitude": "40.378609",
+        "longitude": "117.031966"
+      }
+    ]
+  },
+  {
+    "name": "半城子库",
+    "coordinates": [
+      {
+        "latitude": "40.628521",
+        "longitude": "117.018501"
+      },
+      {
+        "latitude": "40.626919",
+        "longitude": "117.041210"
+      },
+      {
+        "latitude": "40.625793",
+        "longitude": "117.039363"
+      },
+      {
+        "latitude": "40.622231",
+        "longitude": "117.042412"
+      },
+      {
+        "latitude": "40.622291",
+        "longitude": "117.042450"
+      },
+      {
+        "latitude": "40.631155",
+        "longitude": "117.016594"
+      },
+      {
+        "latitude": "40.622593",
+        "longitude": "117.043114"
+      },
+      {
+        "latitude": "40.625754",
+        "longitude": "117.038941"
+      },
+      {
+        "latitude": "40.633390",
+        "longitude": "117.024781"
+      },
+      {
+        "latitude": "40.626313",
+        "longitude": "117.040824"
+      }
+    ]
+  },
+  {
+    "name": "遥桥峪库",
+    "coordinates": [
+      {
+        "latitude": "40.637173",
+        "longitude": "117.392403"
+      },
+      {
+        "latitude": "40.637173",
+        "longitude": "117.392403"
+      },
+      {
+        "latitude": "40.635429",
+        "longitude": "117.378740"
+      },
+      {
+        "latitude": "40.615601",
+        "longitude": "117.387477"
+      },
+      {
+        "latitude": "40.641907",
+        "longitude": "117.381540"
+      },
+      {
+        "latitude": "40.633346",
+        "longitude": "117.381685"
+      },
+      {
+        "latitude": "40.635603",
+        "longitude": "117.378797"
+      },
+      {
+        "latitude": "40.632338",
+        "longitude": "117.382582"
+      },
+      {
+        "latitude": "40.635567",
+        "longitude": "117.378651"
+      },
+      {
+        "latitude": "40.635377",
+        "longitude": "117.378737"
+      }
+    ]
+  },
+  {
+    "name": "花园",
+    "coordinates": [
+      {
+        "latitude": "39.932341",
+        "longitude": "116.310522"
+      },
+      {
+        "latitude": "39.873594",
+        "longitude": "116.498193"
+      },
+      {
+        "latitude": "39.833836",
+        "longitude": "116.301270"
+      },
+      {
+        "latitude": "40.065250",
+        "longitude": "116.408582"
+      },
+      {
+        "latitude": "39.895792",
+        "longitude": "116.453008"
+      },
+      {
+        "latitude": "39.894317",
+        "longitude": "116.469704"
+      },
+      {
+        "latitude": "39.904308",
+        "longitude": "116.550864"
+      },
+      {
+        "latitude": "39.903583",
+        "longitude": "116.548965"
+      },
+      {
+        "latitude": "39.904299",
+        "longitude": "116.548937"
+      },
+      {
+        "latitude": "40.056799",
+        "longitude": "116.345401"
+      }
+    ]
+  },
+  {
+    "name": "涝洼",
+    "coordinates": [
+      {
+        "latitude": "40.656431",
+        "longitude": "117.646966"
+      },
+      {
+        "latitude": "40.488905",
+        "longitude": "117.176412"
+      },
+      {
+        "latitude": "40.688012",
+        "longitude": "117.467808"
+      },
+      {
+        "latitude": "40.627052",
+        "longitude": "117.255859"
+      },
+      {
+        "latitude": "40.688747",
+        "longitude": "117.467824"
+      },
+      {
+        "latitude": "40.629583",
+        "longitude": "117.252986"
+      },
+      {
+        "latitude": "40.700976",
+        "longitude": "117.435899"
+      },
+      {
+        "latitude": "40.655070",
+        "longitude": "117.642781"
+      },
+      {
+        "latitude": "40.629379",
+        "longitude": "117.252775"
+      },
+      {
+        "latitude": "40.692318",
+        "longitude": "117.472331"
+      }
+    ]
+  },
+  {
+    "name": "阳坡地",
+    "coordinates": [
+      {
+        "latitude": "40.664599",
+        "longitude": "116.983763"
+      },
+      {
+        "latitude": "40.663744",
+        "longitude": "116.982141"
+      },
+      {
+        "latitude": "40.663489",
+        "longitude": "116.982019"
+      },
+      {
+        "latitude": "40.663740",
+        "longitude": "116.982157"
+      }
+    ]
+  },
+  {
+    "name": "下栅子",
+    "coordinates": [
+      {
+        "latitude": "40.400437",
+        "longitude": "117.201870"
+      },
+      {
+        "latitude": "40.400146",
+        "longitude": "117.202026"
+      },
+      {
+        "latitude": "40.877856",
+        "longitude": "116.388611"
+      },
+      {
+        "latitude": "40.400413",
+        "longitude": "117.202094"
+      },
+      {
+        "latitude": "40.880063",
+        "longitude": "116.383063"
+      },
+      {
+        "latitude": "40.400430",
+        "longitude": "117.201974"
+      },
+      {
+        "latitude": "40.361726",
+        "longitude": "116.994521"
+      },
+      {
+        "latitude": "40.393750",
+        "longitude": "117.112569"
+      },
+      {
+        "latitude": "40.880074",
+        "longitude": "116.383023"
+      },
+      {
+        "latitude": "40.885843",
+        "longitude": "116.378096"
+      }
+    ]
+  },
+  {
+    "name": "北山下",
+    "coordinates": [
+      {
+        "latitude": "40.273535",
+        "longitude": "116.498574"
+      },
+      {
+        "latitude": "39.931838",
+        "longitude": "116.456112"
+      },
+      {
+        "latitude": "40.015810",
+        "longitude": "115.825140"
+      },
+      {
+        "latitude": "40.436966",
+        "longitude": "116.833136"
+      },
+      {
+        "latitude": "40.394417",
+        "longitude": "117.057063"
+      },
+      {
+        "latitude": "40.395480",
+        "longitude": "117.055135"
+      },
+      {
+        "latitude": "40.028305",
+        "longitude": "116.439834"
+      },
+      {
+        "latitude": "40.364800",
+        "longitude": "116.618973"
+      },
+      {
+        "latitude": "40.492345",
+        "longitude": "117.182054"
+      }
+    ]
+  },
+  {
+    "name": "张家坟",
+    "coordinates": [
+      {
+        "latitude": "39.805065",
+        "longitude": "116.181690"
+      },
+      {
+        "latitude": "39.816374",
+        "longitude": "116.177234"
+      },
+      {
+        "latitude": "39.816888",
+        "longitude": "116.172907"
+      },
+      {
+        "latitude": "39.810666",
+        "longitude": "116.182735"
+      },
+      {
+        "latitude": "39.817474",
+        "longitude": "116.173442"
+      },
+      {
+        "latitude": "39.815534",
+        "longitude": "116.176476"
+      },
+      {
+        "latitude": "39.836105",
+        "longitude": "116.174802"
+      },
+      {
+        "latitude": "40.614734",
+        "longitude": "116.789673"
+      },
+      {
+        "latitude": "39.816374",
+        "longitude": "116.174096"
+      },
+      {
+        "latitude": "40.603967",
+        "longitude": "116.790839"
+      }
+    ]
+  },
+  {
+    "name": "下会",
+    "coordinates": [
+      {
+        "latitude": "40.610172",
+        "longitude": "117.171547"
+      },
+      {
+        "latitude": "40.609969",
+        "longitude": "117.171140"
+      },
+      {
+        "latitude": "40.609932",
+        "longitude": "117.171380"
+      },
+      {
+        "latitude": "40.609922",
+        "longitude": "117.171190"
+      },
+      {
+        "latitude": "39.917470",
+        "longitude": "116.205368"
+      },
+      {
+        "latitude": "40.609929",
+        "longitude": "117.171233"
+      },
+      {
+        "latitude": "40.611062",
+        "longitude": "117.171610"
+      },
+      {
+        "latitude": "40.609969",
+        "longitude": "117.171138"
+      },
+      {
+        "latitude": "40.610014",
+        "longitude": "117.171124"
+      }
+    ]
+  },
+  {
+    "name": "密云白河",
+    "coordinates": [
+      {
+        "latitude": "40.400734",
+        "longitude": "116.848020"
+      },
+      {
+        "latitude": "40.468418",
+        "longitude": "116.820252"
+      },
+      {
+        "latitude": "40.561858",
+        "longitude": "116.828501"
+      },
+      {
+        "latitude": "40.602574",
+        "longitude": "116.818392"
+      },
+      {
+        "latitude": "40.342344",
+        "longitude": "116.803002"
+      },
+      {
+        "latitude": "40.324633",
+        "longitude": "116.772161"
+      },
+      {
+        "latitude": "40.558396",
+        "longitude": "116.820432"
+      },
+      {
+        "latitude": "40.408676",
+        "longitude": "116.847059"
+      },
+      {
+        "latitude": "40.368599",
+        "longitude": "116.835658"
+      },
+      {
+        "latitude": "40.379914",
+        "longitude": "116.841396"
+      }
+    ]
+  },
+  {
+    "name": "密云潮河",
+    "coordinates": [
+      {
+        "latitude": "40.348346",
+        "longitude": "116.837127"
+      },
+      {
+        "latitude": "40.399651",
+        "longitude": "116.943419"
+      },
+      {
+        "latitude": "40.434829",
+        "longitude": "116.994475"
+      },
+      {
+        "latitude": "40.460523",
+        "longitude": "117.013054"
+      },
+      {
+        "latitude": "40.563439",
+        "longitude": "117.091661"
+      },
+      {
+        "latitude": "40.584681",
+        "longitude": "117.143359"
+      },
+      {
+        "latitude": "40.540652",
+        "longitude": "117.049038"
+      },
+      {
+        "latitude": "40.592685",
+        "longitude": "117.119863"
+      },
+      {
+        "latitude": "40.643414",
+        "longitude": "117.175422"
+      },
+      {
+        "latitude": "40.684222",
+        "longitude": "117.125792"
+      }
+    ]
+  },
+  {
+    "name": "平谷",
+    "coordinates": [
+      {
+        "latitude": "40.140805",
+        "longitude": "117.121589"
+      },
+      {
+        "latitude": "40.143807",
+        "longitude": "117.107614"
+      },
+      {
+        "latitude": "40.150056",
+        "longitude": "117.095622"
+      },
+      {
+        "latitude": "40.158241",
+        "longitude": "117.119896"
+      },
+      {
+        "latitude": "40.137311",
+        "longitude": "116.993248"
+      },
+      {
+        "latitude": "40.153818",
+        "longitude": "117.118208"
+      },
+      {
+        "latitude": "40.138875",
+        "longitude": "117.120644"
+      },
+      {
+        "latitude": "40.162318",
+        "longitude": "117.129816"
+      },
+      {
+        "latitude": "40.139329",
+        "longitude": "117.100338"
+      },
+      {
+        "latitude": "40.133366",
+        "longitude": "117.094797"
+      }
+    ]
+  },
+  {
+    "name": "峪口",
+    "coordinates": [
+      {
+        "latitude": "40.187637",
+        "longitude": "117.014779"
+      },
+      {
+        "latitude": "40.183498",
+        "longitude": "117.017840"
+      },
+      {
+        "latitude": "40.199883",
+        "longitude": "117.011472"
+      },
+      {
+        "latitude": "40.194829",
+        "longitude": "117.002694"
+      },
+      {
+        "latitude": "40.185979",
+        "longitude": "117.017936"
+      },
+      {
+        "latitude": "40.199452",
+        "longitude": "117.015476"
+      },
+      {
+        "latitude": "40.189292",
+        "longitude": "117.000278"
+      },
+      {
+        "latitude": "40.187134",
+        "longitude": "117.002375"
+      },
+      {
+        "latitude": "40.195712",
+        "longitude": "117.032957"
+      },
+      {
+        "latitude": "40.343999",
+        "longitude": "116.528908"
+      }
+    ]
+  },
+  {
+    "name": "黄松峪库",
+    "coordinates": [
+      {
+        "latitude": "40.232773",
+        "longitude": "117.260857"
+      },
+      {
+        "latitude": "40.245975",
+        "longitude": "117.252362"
+      },
+      {
+        "latitude": "40.247849",
+        "longitude": "117.250771"
+      },
+      {
+        "latitude": "40.241926",
+        "longitude": "117.258648"
+      },
+      {
+        "latitude": "40.216106",
+        "longitude": "117.259156"
+      },
+      {
+        "latitude": "40.225872",
+        "longitude": "117.264543"
+      },
+      {
+        "latitude": "40.224624",
+        "longitude": "117.263261"
+      },
+      {
+        "latitude": "40.278703",
+        "longitude": "117.275700"
+      },
+      {
+        "latitude": "40.254647",
+        "longitude": "117.245363"
+      },
+      {
+        "latitude": "40.259286",
+        "longitude": "117.248952"
+      }
+    ]
+  },
+  {
+    "name": "镇罗营",
+    "coordinates": [
+      {
+        "latitude": "40.343001",
+        "longitude": "117.141470"
+      },
+      {
+        "latitude": "40.339136",
+        "longitude": "117.126023"
+      },
+      {
+        "latitude": "40.341909",
+        "longitude": "117.137072"
+      },
+      {
+        "latitude": "40.345372",
+        "longitude": "117.149314"
+      },
+      {
+        "latitude": "40.344707",
+        "longitude": "117.149040"
+      },
+      {
+        "latitude": "40.354392",
+        "longitude": "117.186036"
+      },
+      {
+        "latitude": "40.343667",
+        "longitude": "117.144763"
+      },
+      {
+        "latitude": "40.343226",
+        "longitude": "117.142490"
+      },
+      {
+        "latitude": "40.337047",
+        "longitude": "117.142355"
+      },
+      {
+        "latitude": "40.345027",
+        "longitude": "117.149600"
+      }
+    ]
+  },
+  {
+    "name": "西峪水库",
+    "coordinates": [
+      {
+        "latitude": "40.317684",
+        "longitude": "117.100552"
+      },
+      {
+        "latitude": "40.314889",
+        "longitude": "117.095361"
+      },
+      {
+        "latitude": "40.312381",
+        "longitude": "117.095969"
+      },
+      {
+        "latitude": "40.310158",
+        "longitude": "117.094923"
+      },
+      {
+        "latitude": "40.318827",
+        "longitude": "117.088609"
+      },
+      {
+        "latitude": "40.301828",
+        "longitude": "117.103057"
+      },
+      {
+        "latitude": "40.305449",
+        "longitude": "117.090267"
+      }
+    ]
+  },
+  {
+    "name": "将军关",
+    "coordinates": [
+      {
+        "latitude": "40.276776",
+        "longitude": "117.319735"
+      },
+      {
+        "latitude": "40.274154",
+        "longitude": "117.318633"
+      },
+      {
+        "latitude": "40.276733",
+        "longitude": "117.318930"
+      },
+      {
+        "latitude": "40.274111",
+        "longitude": "117.318636"
+      },
+      {
+        "latitude": "40.268130",
+        "longitude": "117.320935"
+      },
+      {
+        "latitude": "40.263971",
+        "longitude": "117.321118"
+      },
+      {
+        "latitude": "40.260306",
+        "longitude": "117.321936"
+      },
+      {
+        "latitude": "40.271905",
+        "longitude": "117.318313"
+      },
+      {
+        "latitude": "40.272066",
+        "longitude": "117.318286"
+      },
+      {
+        "latitude": "40.259106",
+        "longitude": "117.324553"
+      }
+    ]
+  },
+  {
+    "name": "刁窝",
+    "coordinates": [
+      {
+        "latitude": "39.483046",
+        "longitude": "116.082645"
+      },
+      {
+        "latitude": "39.490081",
+        "longitude": "116.083998"
+      },
+      {
+        "latitude": "39.488605",
+        "longitude": "116.083980"
+      },
+      {
+        "latitude": "39.499153",
+        "longitude": "116.082704"
+      },
+      {
+        "latitude": "39.502500",
+        "longitude": "116.084072"
+      },
+      {
+        "latitude": "39.482424",
+        "longitude": "116.083912"
+      },
+      {
+        "latitude": "39.481669",
+        "longitude": "116.094327"
+      },
+      {
+        "latitude": "39.049819",
+        "longitude": "114.123032"
+      },
+      {
+        "latitude": "39.495590",
+        "longitude": "116.084354"
+      },
+      {
+        "latitude": "39.493544",
+        "longitude": "116.083794"
+      }
+    ]
+  },
+  {
+    "name": "海子水库",
+    "coordinates": [
+      {
+        "latitude": "40.183785",
+        "longitude": "117.301612"
+      },
+      {
+        "latitude": "40.394689",
+        "longitude": "117.037776"
+      },
+      {
+        "latitude": "40.175384",
+        "longitude": "117.302162"
+      },
+      {
+        "latitude": "40.175407",
+        "longitude": "117.302164"
+      },
+      {
+        "latitude": "40.355595",
+        "longitude": "117.034808"
+      },
+      {
+        "latitude": "39.816616",
+        "longitude": "116.348935"
+      },
+      {
+        "latitude": "40.175429",
+        "longitude": "117.302171"
+      },
+      {
+        "latitude": "40.355581",
+        "longitude": "117.034813"
+      },
+      {
+        "latitude": "40.175416",
+        "longitude": "117.302208"
+      },
+      {
+        "latitude": "39.814672",
+        "longitude": "116.347607"
+      }
+    ]
+  },
+  {
+    "name": "桑园",
+    "coordinates": [
+      {
+        "latitude": "39.779641",
+        "longitude": "116.612894"
+      },
+      {
+        "latitude": "39.790271",
+        "longitude": "116.604073"
+      },
+      {
+        "latitude": "40.578876",
+        "longitude": "117.157496"
+      },
+      {
+        "latitude": "40.229805",
+        "longitude": "116.561338"
+      },
+      {
+        "latitude": "39.634224",
+        "longitude": "116.544767"
+      },
+      {
+        "latitude": "39.787676",
+        "longitude": "116.602555"
+      },
+      {
+        "latitude": "40.576475",
+        "longitude": "117.156671"
+      },
+      {
+        "latitude": "40.578260",
+        "longitude": "117.152463"
+      },
+      {
+        "latitude": "40.579225",
+        "longitude": "117.153858"
+      },
+      {
+        "latitude": "39.635835",
+        "longitude": "116.544522"
+      }
+    ]
+  },
+  {
+    "name": "怀柔水库",
+    "coordinates": [
+      {
+        "latitude": "40.309519",
+        "longitude": "116.593035"
+      },
+      {
+        "latitude": "40.869393",
+        "longitude": "116.744947"
+      },
+      {
+        "latitude": "40.386272",
+        "longitude": "116.684373"
+      },
+      {
+        "latitude": "40.340079",
+        "longitude": "116.610796"
+      },
+      {
+        "latitude": "40.773337",
+        "longitude": "116.514920"
+      },
+      {
+        "latitude": "40.842764",
+        "longitude": "116.690047"
+      },
+      {
+        "latitude": "40.420857",
+        "longitude": "116.347100"
+      },
+      {
+        "latitude": "40.869808",
+        "longitude": "116.744690"
+      },
+      {
+        "latitude": "40.288540",
+        "longitude": "116.483484"
+      },
+      {
+        "latitude": "40.300965",
+        "longitude": "116.527561"
+      }
+    ]
+  },
+  {
+    "name": "口头",
+    "coordinates": [
+      {
+        "latitude": "40.363248",
+        "longitude": "116.576144"
+      },
+      {
+        "latitude": "39.777496",
+        "longitude": "116.020257"
+      },
+      {
+        "latitude": "39.903506",
+        "longitude": "116.212164"
+      },
+      {
+        "latitude": "40.358382",
+        "longitude": "116.574435"
+      },
+      {
+        "latitude": "39.777285",
+        "longitude": "116.019611"
+      },
+      {
+        "latitude": "39.942273",
+        "longitude": "116.370996"
+      },
+      {
+        "latitude": "39.777298",
+        "longitude": "116.020058"
+      },
+      {
+        "latitude": "39.924686",
+        "longitude": "116.359904"
+      },
+      {
+        "latitude": "40.359974",
+        "longitude": "116.571203"
+      },
+      {
+        "latitude": "39.924955",
+        "longitude": "116.359435"
+      }
+    ]
+  },
+  {
+    "name": "前辛庄",
+    "coordinates": [
+      {
+        "latitude": "40.321297",
+        "longitude": "116.564144"
+      },
+      {
+        "latitude": "39.714079",
+        "longitude": "116.268482"
+      },
+      {
+        "latitude": "39.719661",
+        "longitude": "116.273387"
+      },
+      {
+        "latitude": "39.720060",
+        "longitude": "116.275698"
+      },
+      {
+        "latitude": "39.717327",
+        "longitude": "116.271563"
+      },
+      {
+        "latitude": "40.321098",
+        "longitude": "116.564053"
+      },
+      {
+        "latitude": "40.316776",
+        "longitude": "116.566688"
+      },
+      {
+        "latitude": "39.716089",
+        "longitude": "116.266334"
+      },
+      {
+        "latitude": "39.718947",
+        "longitude": "116.270846"
+      },
+      {
+        "latitude": "40.323796",
+        "longitude": "116.563088"
+      }
+    ]
+  },
+  {
+    "name": "沙峪",
+    "coordinates": [
+      {
+        "latitude": "40.412523",
+        "longitude": "116.474800"
+      },
+      {
+        "latitude": "40.094121",
+        "longitude": "116.480139"
+      },
+      {
+        "latitude": "40.091318",
+        "longitude": "116.481589"
+      },
+      {
+        "latitude": "40.094109",
+        "longitude": "116.479953"
+      },
+      {
+        "latitude": "40.584388",
+        "longitude": "117.211337"
+      },
+      {
+        "latitude": "40.092391",
+        "longitude": "116.482293"
+      },
+      {
+        "latitude": "40.094121",
+        "longitude": "116.480139"
+      },
+      {
+        "latitude": "40.264036",
+        "longitude": "116.510360"
+      },
+      {
+        "latitude": "40.092580",
+        "longitude": "116.481948"
+      },
+      {
+        "latitude": "40.288540",
+        "longitude": "116.483484"
+      }
+    ]
+  },
+  {
+    "name": "黄花城",
+    "coordinates": [
+      {
+        "latitude": "40.413026",
+        "longitude": "116.303862"
+      },
+      {
+        "latitude": "40.412798",
+        "longitude": "116.347443"
+      },
+      {
+        "latitude": "40.412037",
+        "longitude": "116.314888"
+      },
+      {
+        "latitude": "40.417817",
+        "longitude": "116.344686"
+      },
+      {
+        "latitude": "40.412015",
+        "longitude": "116.314303"
+      },
+      {
+        "latitude": "40.417815",
+        "longitude": "116.344746"
+      },
+      {
+        "latitude": "40.412524",
+        "longitude": "116.305692"
+      },
+      {
+        "latitude": "40.411520",
+        "longitude": "116.314559"
+      },
+      {
+        "latitude": "40.411273",
+        "longitude": "116.313032"
+      },
+      {
+        "latitude": "40.405879",
+        "longitude": "116.344264"
+      }
+    ]
+  },
+  {
+    "name": "琉璃庙",
+    "coordinates": [
+      {
+        "latitude": "40.628345",
+        "longitude": "116.650529"
+      },
+      {
+        "latitude": "40.627005",
+        "longitude": "116.651319"
+      },
+      {
+        "latitude": "40.629855",
+        "longitude": "116.648220"
+      },
+      {
+        "latitude": "40.629048",
+        "longitude": "116.652979"
+      },
+      {
+        "latitude": "40.633558",
+        "longitude": "116.647932"
+      },
+      {
+        "latitude": "40.627274",
+        "longitude": "116.651445"
+      },
+      {
+        "latitude": "40.629072",
+        "longitude": "116.650182"
+      },
+      {
+        "latitude": "40.627219",
+        "longitude": "116.646618"
+      },
+      {
+        "latitude": "40.628219",
+        "longitude": "116.652150"
+      },
+      {
+        "latitude": "40.629010",
+        "longitude": "116.652943"
+      }
+    ]
+  },
+  {
+    "name": "柏崖厂",
+    "coordinates": [
+      {
+        "latitude": "40.365946",
+        "longitude": "116.674827"
+      },
+      {
+        "latitude": "40.417981",
+        "longitude": "117.177001"
+      },
+      {
+        "latitude": "40.365950",
+        "longitude": "116.674820"
+      },
+      {
+        "latitude": "40.418120",
+        "longitude": "117.177082"
+      },
+      {
+        "latitude": "40.365932",
+        "longitude": "116.674828"
+      },
+      {
+        "latitude": "40.365947",
+        "longitude": "116.675209"
+      },
+      {
+        "latitude": "40.412196",
+        "longitude": "116.646347"
+      },
+      {
+        "latitude": "40.418516",
+        "longitude": "117.177264"
+      },
+      {
+        "latitude": "40.415210",
+        "longitude": "116.647361"
+      },
+      {
+        "latitude": "40.418035",
+        "longitude": "117.177128"
+      }
+    ]
+  },
+  {
+    "name": "北台上水库",
+    "coordinates": [
+      {
+        "latitude": "40.398847",
+        "longitude": "116.675390"
+      },
+      {
+        "latitude": "40.386272",
+        "longitude": "116.684373"
+      },
+      {
+        "latitude": "40.387914",
+        "longitude": "116.689915"
+      },
+      {
+        "latitude": "40.391351",
+        "longitude": "116.667865"
+      },
+      {
+        "latitude": "40.386333",
+        "longitude": "116.679408"
+      },
+      {
+        "latitude": "40.379292",
+        "longitude": "116.679831"
+      },
+      {
+        "latitude": "40.388662",
+        "longitude": "116.665946"
+      },
+      {
+        "latitude": "40.327149",
+        "longitude": "116.655223"
+      },
+      {
+        "latitude": "40.397696",
+        "longitude": "116.686560"
+      },
+      {
+        "latitude": "40.398265",
+        "longitude": "116.687101"
+      }
+    ]
+  },
+  {
+    "name": "大水峪水库",
+    "coordinates": [
+      {
+        "latitude": "40.459506",
+        "longitude": "116.680190"
+      },
+      {
+        "latitude": "40.462762",
+        "longitude": "116.727708"
+      },
+      {
+        "latitude": "40.441964",
+        "longitude": "116.689624"
+      },
+      {
+        "latitude": "40.454548",
+        "longitude": "116.685309"
+      },
+      {
+        "latitude": "39.896927",
+        "longitude": "115.845082"
+      },
+      {
+        "latitude": "40.447431",
+        "longitude": "116.699638"
+      },
+      {
+        "latitude": "40.443450",
+        "longitude": "116.703810"
+      },
+      {
+        "latitude": "40.447627",
+        "longitude": "116.699783"
+      },
+      {
+        "latitude": "40.449401",
+        "longitude": "116.700220"
+      },
+      {
+        "latitude": "40.449947",
+        "longitude": "116.702517"
+      }
+    ]
+  },
+  {
+    "name": "椴树岭",
+    "coordinates": [
+      {
+        "latitude": "40.452216",
+        "longitude": "116.660780"
+      },
+      {
+        "latitude": "40.520219",
+        "longitude": "116.669912"
+      },
+      {
+        "latitude": "40.487536",
+        "longitude": "116.662706"
+      },
+      {
+        "latitude": "40.511655",
+        "longitude": "116.666665"
+      },
+      {
+        "latitude": "40.511948",
+        "longitude": "116.666525"
+      },
+      {
+        "latitude": "40.531220",
+        "longitude": "116.672347"
+      },
+      {
+        "latitude": "40.534103",
+        "longitude": "116.680009"
+      },
+      {
+        "latitude": "40.530942",
+        "longitude": "116.673138"
+      },
+      {
+        "latitude": "40.505838",
+        "longitude": "116.666732"
+      },
+      {
+        "latitude": "40.512283",
+        "longitude": "116.672830"
+      }
+    ]
+  },
+  {
+    "name": "八道河",
+    "coordinates": [
+      {
+        "latitude": "40.413431",
+        "longitude": "118.801661"
+      },
+      {
+        "latitude": "40.416265",
+        "longitude": "118.794899"
+      },
+      {
+        "latitude": "40.413568",
+        "longitude": "118.801649"
+      },
+      {
+        "latitude": "40.416091",
+        "longitude": "118.798844"
+      },
+      {
+        "latitude": "40.416056",
+        "longitude": "118.801361"
+      },
+      {
+        "latitude": "40.415796",
+        "longitude": "118.802138"
+      },
+      {
+        "latitude": "40.398508",
+        "longitude": "118.790323"
+      },
+      {
+        "latitude": "40.398921",
+        "longitude": "118.790737"
+      },
+      {
+        "latitude": "40.404404",
+        "longitude": "118.776188"
+      },
+      {
+        "latitude": "40.402479",
+        "longitude": "118.798654"
+      }
+    ]
+  },
+  {
+    "name": "碾子",
+    "coordinates": [
+      {
+        "latitude": "39.928683",
+        "longitude": "116.398282"
+      },
+      {
+        "latitude": "39.929903",
+        "longitude": "116.398066"
+      },
+      {
+        "latitude": "40.803859",
+        "longitude": "116.490747"
+      },
+      {
+        "latitude": "40.661338",
+        "longitude": "116.219884"
+      },
+      {
+        "latitude": "39.877039",
+        "longitude": "116.275935"
+      },
+      {
+        "latitude": "39.875111",
+        "longitude": "116.274101"
+      },
+      {
+        "latitude": "39.874556",
+        "longitude": "116.273828"
+      },
+      {
+        "latitude": "39.930008",
+        "longitude": "116.397696"
+      },
+      {
+        "latitude": "39.877710",
+        "longitude": "116.275564"
+      },
+      {
+        "latitude": "40.630117",
+        "longitude": "116.614475"
+      }
+    ]
+  },
+  {
+    "name": "汤河口",
+    "coordinates": [
+      {
+        "latitude": "40.741915",
+        "longitude": "116.645826"
+      },
+      {
+        "latitude": "40.732960",
+        "longitude": "116.637904"
+      },
+      {
+        "latitude": "40.692571",
+        "longitude": "116.659629"
+      },
+      {
+        "latitude": "40.692108",
+        "longitude": "116.659633"
+      },
+      {
+        "latitude": "40.731851",
+        "longitude": "116.639036"
+      },
+      {
+        "latitude": "40.737341",
+        "longitude": "116.644809"
+      },
+      {
+        "latitude": "40.730781",
+        "longitude": "116.631836"
+      },
+      {
+        "latitude": "40.728215",
+        "longitude": "116.635889"
+      },
+      {
+        "latitude": "40.738076",
+        "longitude": "116.647093"
+      },
+      {
+        "latitude": "40.737179",
+        "longitude": "116.646059"
+      }
+    ]
+  },
+  {
+    "name": "长哨营",
+    "coordinates": [
+      {
+        "latitude": "40.794064",
+        "longitude": "116.750473"
+      },
+      {
+        "latitude": "40.794413",
+        "longitude": "116.749818"
+      },
+      {
+        "latitude": "40.792838",
+        "longitude": "116.746876"
+      },
+      {
+        "latitude": "40.796838",
+        "longitude": "116.751523"
+      },
+      {
+        "latitude": "40.797537",
+        "longitude": "116.753280"
+      },
+      {
+        "latitude": "40.794504",
+        "longitude": "116.747375"
+      },
+      {
+        "latitude": "40.801101",
+        "longitude": "116.766720"
+      },
+      {
+        "latitude": "40.789733",
+        "longitude": "116.737800"
+      },
+      {
+        "latitude": "40.793230",
+        "longitude": "116.745436"
+      },
+      {
+        "latitude": "40.797340",
+        "longitude": "116.752249"
+      }
+    ]
+  },
+  {
+    "name": "宝山寺",
+    "coordinates": [
+      {
+        "latitude": "40.694067",
+        "longitude": "116.572068"
+      },
+      {
+        "latitude": "40.694978",
+        "longitude": "116.568838"
+      },
+      {
+        "latitude": "40.732071",
+        "longitude": "116.638177"
+      },
+      {
+        "latitude": "40.694288",
+        "longitude": "116.570849"
+      },
+      {
+        "latitude": "40.694831",
+        "longitude": "116.569009"
+      },
+      {
+        "latitude": "40.697708",
+        "longitude": "116.568793"
+      },
+      {
+        "latitude": "40.695117",
+        "longitude": "116.562839"
+      },
+      {
+        "latitude": "40.695188",
+        "longitude": "116.568508"
+      },
+      {
+        "latitude": "40.697950",
+        "longitude": "116.569566"
+      },
+      {
+        "latitude": "40.696848",
+        "longitude": "116.569292"
+      }
+    ]
+  },
+  {
+    "name": "喇叭沟门",
+    "coordinates": [
+      {
+        "latitude": "40.944697",
+        "longitude": "116.516762"
+      },
+      {
+        "latitude": "40.900254",
+        "longitude": "116.607109"
+      },
+      {
+        "latitude": "40.902087",
+        "longitude": "116.622909"
+      },
+      {
+        "latitude": "40.897809",
+        "longitude": "116.623359"
+      },
+      {
+        "latitude": "40.901568",
+        "longitude": "116.621279"
+      },
+      {
+        "latitude": "40.902977",
+        "longitude": "116.621846"
+      },
+      {
+        "latitude": "40.899336",
+        "longitude": "116.617467"
+      },
+      {
+        "latitude": "40.899850",
+        "longitude": "116.617680"
+      },
+      {
+        "latitude": "40.901533",
+        "longitude": "116.621207"
+      },
+      {
+        "latitude": "40.898077",
+        "longitude": "116.623416"
+      }
+    ]
+  },
+  {
+    "name": "顺义",
+    "coordinates": [
+      {
+        "latitude": "40.149891",
+        "longitude": "116.661474"
+      },
+      {
+        "latitude": "40.129994",
+        "longitude": "116.657023"
+      },
+      {
+        "latitude": "40.126183",
+        "longitude": "116.645231"
+      },
+      {
+        "latitude": "40.109538",
+        "longitude": "116.670304"
+      },
+      {
+        "latitude": "40.120898",
+        "longitude": "116.662000"
+      },
+      {
+        "latitude": "40.079553",
+        "longitude": "116.524603"
+      },
+      {
+        "latitude": "40.129362",
+        "longitude": "116.574280"
+      },
+      {
+        "latitude": "40.130200",
+        "longitude": "116.655035"
+      },
+      {
+        "latitude": "40.122843",
+        "longitude": "116.660447"
+      },
+      {
+        "latitude": "40.096007",
+        "longitude": "116.492040"
+      }
+    ]
+  },
+  {
+    "name": "杨镇",
+    "coordinates": [
+      {
+        "latitude": "40.150547",
+        "longitude": "116.832542"
+      },
+      {
+        "latitude": "40.150070",
+        "longitude": "116.822250"
+      },
+      {
+        "latitude": "40.153706",
+        "longitude": "116.830859"
+      },
+      {
+        "latitude": "40.153907",
+        "longitude": "116.832995"
+      },
+      {
+        "latitude": "40.154411",
+        "longitude": "116.816792"
+      },
+      {
+        "latitude": "40.153403",
+        "longitude": "116.832978"
+      },
+      {
+        "latitude": "40.158788",
+        "longitude": "116.840315"
+      },
+      {
+        "latitude": "40.153374",
+        "longitude": "116.831113"
+      },
+      {
+        "latitude": "40.169281",
+        "longitude": "116.819659"
+      },
+      {
+        "latitude": "40.150506",
+        "longitude": "116.831555"
+      }
+    ]
+  },
+  {
+    "name": "唐指山",
+    "coordinates": [
+      {
+        "latitude": "40.270870",
+        "longitude": "116.812851"
+      },
+      {
+        "latitude": "40.277294",
+        "longitude": "116.802111"
+      },
+      {
+        "latitude": "40.275574",
+        "longitude": "116.800377"
+      },
+      {
+        "latitude": "40.262563",
+        "longitude": "116.798563"
+      },
+      {
+        "latitude": "40.268245",
+        "longitude": "116.823224"
+      },
+      {
+        "latitude": "40.266958",
+        "longitude": "116.807765"
+      },
+      {
+        "latitude": "40.263384",
+        "longitude": "116.799059"
+      },
+      {
+        "latitude": "40.263333",
+        "longitude": "116.798983"
+      },
+      {
+        "latitude": "40.263575",
+        "longitude": "116.799982"
+      },
+      {
+        "latitude": "40.262393",
+        "longitude": "116.798638"
+      }
+    ]
+  },
+  {
+    "name": "大孙各庄",
+    "coordinates": [
+      {
+        "latitude": "40.087700",
+        "longitude": "116.920070"
+      },
+      {
+        "latitude": "40.083902",
+        "longitude": "116.913937"
+      },
+      {
+        "latitude": "40.088566",
+        "longitude": "116.922820"
+      },
+      {
+        "latitude": "40.093125",
+        "longitude": "116.919839"
+      },
+      {
+        "latitude": "40.090716",
+        "longitude": "116.922448"
+      },
+      {
+        "latitude": "40.084990",
+        "longitude": "116.925660"
+      },
+      {
+        "latitude": "40.089557",
+        "longitude": "116.920611"
+      },
+      {
+        "latitude": "40.063372",
+        "longitude": "116.925235"
+      },
+      {
+        "latitude": "40.053491",
+        "longitude": "116.944312"
+      },
+      {
+        "latitude": "40.064243",
+        "longitude": "116.928191"
+      }
+    ]
+  },
+  {
+    "name": "天竺",
+    "coordinates": [
+      {
+        "latitude": "40.063636",
+        "longitude": "116.579050"
+      },
+      {
+        "latitude": "40.043223",
+        "longitude": "116.589668"
+      },
+      {
+        "latitude": "40.054592",
+        "longitude": "116.581701"
+      },
+      {
+        "latitude": "40.043202",
+        "longitude": "116.588084"
+      },
+      {
+        "latitude": "40.065591",
+        "longitude": "116.569370"
+      },
+      {
+        "latitude": "40.061075",
+        "longitude": "116.564702"
+      },
+      {
+        "latitude": "40.062703",
+        "longitude": "116.573533"
+      },
+      {
+        "latitude": "40.048109",
+        "longitude": "116.585369"
+      },
+      {
+        "latitude": "40.044003",
+        "longitude": "116.589865"
+      },
+      {
+        "latitude": "40.059168",
+        "longitude": "116.581738"
+      }
+    ]
+  },
+  {
+    "name": "向阳闸",
+    "coordinates": [
+      {
+        "latitude": "29.705456",
+        "longitude": "115.978056"
+      },
+      {
+        "latitude": "29.709691",
+        "longitude": "115.980706"
+      },
+      {
+        "latitude": "29.707746",
+        "longitude": "115.976765"
+      },
+      {
+        "latitude": "29.709652",
+        "longitude": "115.980864"
+      },
+      {
+        "latitude": "29.709430",
+        "longitude": "115.979214"
+      },
+      {
+        "latitude": "29.709678",
+        "longitude": "115.980693"
+      },
+      {
+        "latitude": "29.707984",
+        "longitude": "115.979709"
+      },
+      {
+        "latitude": "29.710595",
+        "longitude": "115.981245"
+      },
+      {
+        "latitude": "29.710779",
+        "longitude": "115.981239"
+      },
+      {
+        "latitude": "29.709667",
+        "longitude": "115.980786"
+      }
+    ]
+  },
+  {
+    "name": "苏庄",
+    "coordinates": [
+      {
+        "latitude": "39.723188",
+        "longitude": "116.125306"
+      },
+      {
+        "latitude": "40.064316",
+        "longitude": "116.747292"
+      },
+      {
+        "latitude": "39.802304",
+        "longitude": "116.783213"
+      },
+      {
+        "latitude": "39.727847",
+        "longitude": "116.123689"
+      },
+      {
+        "latitude": "40.063461",
+        "longitude": "116.755053"
+      },
+      {
+        "latitude": "39.725823",
+        "longitude": "116.123692"
+      },
+      {
+        "latitude": "39.726153",
+        "longitude": "116.123621"
+      },
+      {
+        "latitude": "39.800339",
+        "longitude": "116.782487"
+      },
+      {
+        "latitude": "39.723931",
+        "longitude": "116.123643"
+      },
+      {
+        "latitude": "39.726391",
+        "longitude": "116.120493"
+      }
+    ]
+  },
+  {
+    "name": "通州",
+    "coordinates": [
+      {
+        "latitude": "39.916403",
+        "longitude": "116.729230"
+      },
+      {
+        "latitude": "39.897146",
+        "longitude": "116.662446"
+      },
+      {
+        "latitude": "39.918368",
+        "longitude": "116.661482"
+      },
+      {
+        "latitude": "39.896908",
+        "longitude": "116.665191"
+      },
+      {
+        "latitude": "39.920169",
+        "longitude": "116.652403"
+      },
+      {
+        "latitude": "39.906741",
+        "longitude": "116.643810"
+      },
+      {
+        "latitude": "39.886622",
+        "longitude": "116.670850"
+      },
+      {
+        "latitude": "39.929594",
+        "longitude": "116.668783"
+      },
+      {
+        "latitude": "39.899566",
+        "longitude": "116.669375"
+      },
+      {
+        "latitude": "39.892274",
+        "longitude": "116.675930"
+      }
+    ]
+  },
+  {
+    "name": "永乐店",
+    "coordinates": [
+      {
+        "latitude": "39.707726",
+        "longitude": "116.787789"
+      },
+      {
+        "latitude": "39.642901",
+        "longitude": "116.814151"
+      },
+      {
+        "latitude": "39.709408",
+        "longitude": "116.796805"
+      },
+      {
+        "latitude": "39.712528",
+        "longitude": "116.783192"
+      },
+      {
+        "latitude": "39.706178",
+        "longitude": "116.796402"
+      },
+      {
+        "latitude": "39.643258",
+        "longitude": "116.813017"
+      },
+      {
+        "latitude": "39.717338",
+        "longitude": "116.785059"
+      },
+      {
+        "latitude": "39.710421",
+        "longitude": "116.784633"
+      },
+      {
+        "latitude": "39.714160",
+        "longitude": "116.790965"
+      },
+      {
+        "latitude": "39.714449",
+        "longitude": "116.788937"
+      }
+    ]
+  },
+  {
+    "name": "马驹桥",
+    "coordinates": [
+      {
+        "latitude": "39.751308",
+        "longitude": "116.572998"
+      },
+      {
+        "latitude": "39.766191",
+        "longitude": "116.548945"
+      },
+      {
+        "latitude": "39.746006",
+        "longitude": "116.558513"
+      },
+      {
+        "latitude": "39.759969",
+        "longitude": "116.561832"
+      },
+      {
+        "latitude": "39.751747",
+        "longitude": "116.566593"
+      },
+      {
+        "latitude": "39.751905",
+        "longitude": "116.570467"
+      },
+      {
+        "latitude": "39.763138",
+        "longitude": "116.552457"
+      },
+      {
+        "latitude": "39.751551",
+        "longitude": "116.566753"
+      },
+      {
+        "latitude": "39.751217",
+        "longitude": "116.568963"
+      },
+      {
+        "latitude": "39.751429",
+        "longitude": "116.572777"
+      }
+    ]
+  },
+  {
+    "name": "榆林庄",
+    "coordinates": [
+      {
+        "latitude": "39.792882",
+        "longitude": "116.785570"
+      },
+      {
+        "latitude": "39.781940",
+        "longitude": "116.797030"
+      },
+      {
+        "latitude": "39.796603",
+        "longitude": "116.784107"
+      },
+      {
+        "latitude": "39.786348",
+        "longitude": "116.789603"
+      },
+      {
+        "latitude": "39.785328",
+        "longitude": "116.790267"
+      },
+      {
+        "latitude": "39.793514",
+        "longitude": "116.784525"
+      },
+      {
+        "latitude": "39.793208",
+        "longitude": "116.791853"
+      },
+      {
+        "latitude": "39.781885",
+        "longitude": "116.796487"
+      },
+      {
+        "latitude": "39.785267",
+        "longitude": "116.790303"
+      },
+      {
+        "latitude": "39.875942",
+        "longitude": "116.787514"
+      }
+    ]
+  },
+  {
+    "name": "杨洼闸",
+    "coordinates": [
+      {
+        "latitude": "39.768703",
+        "longitude": "116.908652"
+      }
+    ]
+  },
+  {
+    "name": "十三陵水库",
+    "coordinates": [
+      {
+        "latitude": "40.264648",
+        "longitude": "116.261364"
+      },
+      {
+        "latitude": "40.259580",
+        "longitude": "116.248554"
+      },
+      {
+        "latitude": "40.253296",
+        "longitude": "116.275827"
+      },
+      {
+        "latitude": "40.248731",
+        "longitude": "116.270914"
+      },
+      {
+        "latitude": "40.245802",
+        "longitude": "116.268134"
+      },
+      {
+        "latitude": "40.268115",
+        "longitude": "116.232371"
+      },
+      {
+        "latitude": "40.250478",
+        "longitude": "116.274832"
+      },
+      {
+        "latitude": "40.250492",
+        "longitude": "116.274821"
+      },
+      {
+        "latitude": "40.268581",
+        "longitude": "116.255956"
+      },
+      {
+        "latitude": "40.277560",
+        "longitude": "116.252280"
+      }
+    ]
+  },
+  {
+    "name": "桃峪口水库",
+    "coordinates": [
+      {
+        "latitude": "40.239098",
+        "longitude": "116.444289"
+      },
+      {
+        "latitude": "40.232466",
+        "longitude": "116.452832"
+      },
+      {
+        "latitude": "40.237178",
+        "longitude": "116.442387"
+      },
+      {
+        "latitude": "40.234258",
+        "longitude": "116.453752"
+      },
+      {
+        "latitude": "40.233948",
+        "longitude": "116.452742"
+      },
+      {
+        "latitude": "40.230150",
+        "longitude": "116.453303"
+      },
+      {
+        "latitude": "40.234007",
+        "longitude": "116.453409"
+      },
+      {
+        "latitude": "40.234007",
+        "longitude": "116.453409"
+      },
+      {
+        "latitude": "40.243288",
+        "longitude": "116.444933"
+      },
+      {
+        "latitude": "40.238317",
+        "longitude": "116.442543"
+      }
+    ]
+  },
+  {
+    "name": "响潭",
+    "coordinates": [
+      {
+        "latitude": "40.251864",
+        "longitude": "116.095187"
+      },
+      {
+        "latitude": "40.259247",
+        "longitude": "116.106329"
+      },
+      {
+        "latitude": "40.238160",
+        "longitude": "116.115609"
+      },
+      {
+        "latitude": "40.256223",
+        "longitude": "117.173219"
+      },
+      {
+        "latitude": "40.256286",
+        "longitude": "117.173237"
+      },
+      {
+        "latitude": "40.248442",
+        "longitude": "116.100892"
+      },
+      {
+        "latitude": "40.245771",
+        "longitude": "116.106632"
+      },
+      {
+        "latitude": "40.245715",
+        "longitude": "116.106895"
+      },
+      {
+        "latitude": "40.245115",
+        "longitude": "116.106414"
+      },
+      {
+        "latitude": "40.244357",
+        "longitude": "116.107444"
+      }
+    ]
+  },
+  {
+    "name": "王家园",
+    "coordinates": [
+      {
+        "latitude": "39.930995",
+        "longitude": "116.438715"
+      },
+      {
+        "latitude": "39.931568",
+        "longitude": "116.437269"
+      },
+      {
+        "latitude": "39.931232",
+        "longitude": "116.437263"
+      },
+      {
+        "latitude": "39.930939",
+        "longitude": "116.437402"
+      },
+      {
+        "latitude": "40.202973",
+        "longitude": "116.001581"
+      },
+      {
+        "latitude": "40.180949",
+        "longitude": "116.050043"
+      },
+      {
+        "latitude": "39.931345",
+        "longitude": "116.438455"
+      },
+      {
+        "latitude": "39.931095",
+        "longitude": "116.439428"
+      },
+      {
+        "latitude": "40.182073",
+        "longitude": "116.060964"
+      },
+      {
+        "latitude": "39.930980",
+        "longitude": "116.436626"
+      }
+    ]
+  },
+  {
+    "name": "阳坊",
+    "coordinates": [
+      {
+        "latitude": "40.139479",
+        "longitude": "116.144763"
+      },
+      {
+        "latitude": "40.139822",
+        "longitude": "116.140551"
+      },
+      {
+        "latitude": "40.137690",
+        "longitude": "116.138315"
+      },
+      {
+        "latitude": "39.898380",
+        "longitude": "116.435279"
+      },
+      {
+        "latitude": "39.907530",
+        "longitude": "116.441528"
+      },
+      {
+        "latitude": "40.140115",
+        "longitude": "116.142491"
+      },
+      {
+        "latitude": "39.940440",
+        "longitude": "116.365284"
+      },
+      {
+        "latitude": "40.138840",
+        "longitude": "116.152665"
+      },
+      {
+        "latitude": "39.978936",
+        "longitude": "116.401772"
+      },
+      {
+        "latitude": "39.916048",
+        "longitude": "116.493588"
+      }
+    ]
+  },
+  {
+    "name": "沙河闸",
+    "coordinates": [
+      {
+        "latitude": "40.130624",
+        "longitude": "116.344872"
+      },
+      {
+        "latitude": "40.133505",
+        "longitude": "116.339537"
+      },
+      {
+        "latitude": "40.102794",
+        "longitude": "116.213677"
+      }
+    ]
+  },
+  {
+    "name": "长陵",
+    "coordinates": [
+      {
+        "latitude": "40.303961",
+        "longitude": "116.248430"
+      },
+      {
+        "latitude": "40.300235",
+        "longitude": "116.248804"
+      },
+      {
+        "latitude": "40.297139",
+        "longitude": "116.253601"
+      },
+      {
+        "latitude": "40.292694",
+        "longitude": "116.251327"
+      },
+      {
+        "latitude": "40.297594",
+        "longitude": "116.249084"
+      },
+      {
+        "latitude": "40.298525",
+        "longitude": "116.250034"
+      },
+      {
+        "latitude": "40.293018",
+        "longitude": "116.250561"
+      },
+      {
+        "latitude": "40.298038",
+        "longitude": "116.247359"
+      },
+      {
+        "latitude": "40.297603",
+        "longitude": "116.249051"
+      },
+      {
+        "latitude": "40.300387",
+        "longitude": "116.256664"
+      }
+    ]
+  },
+  {
+    "name": "德胜口",
+    "coordinates": [
+      {
+        "latitude": "40.304785",
+        "longitude": "116.184444"
+      },
+      {
+        "latitude": "40.296615",
+        "longitude": "116.196007"
+      },
+      {
+        "latitude": "40.293027",
+        "longitude": "116.204598"
+      },
+      {
+        "latitude": "40.289315",
+        "longitude": "116.208669"
+      },
+      {
+        "latitude": "40.279798",
+        "longitude": "116.180934"
+      },
+      {
+        "latitude": "40.294651",
+        "longitude": "116.192845"
+      },
+      {
+        "latitude": "40.299174",
+        "longitude": "116.189083"
+      },
+      {
+        "latitude": "40.286985",
+        "longitude": "116.209349"
+      },
+      {
+        "latitude": "40.288659",
+        "longitude": "116.208833"
+      },
+      {
+        "latitude": "40.286985",
+        "longitude": "116.209349"
+      }
+    ]
+  },
+  {
+    "name": "黄村",
+    "coordinates": [
+      {
+        "latitude": "39.728538",
+        "longitude": "116.337090"
+      },
+      {
+        "latitude": "39.725106",
+        "longitude": "116.345801"
+      },
+      {
+        "latitude": "39.720221",
+        "longitude": "116.331578"
+      },
+      {
+        "latitude": "39.741940",
+        "longitude": "116.332326"
+      },
+      {
+        "latitude": "39.744512",
+        "longitude": "116.346701"
+      },
+      {
+        "latitude": "39.722966",
+        "longitude": "116.332611"
+      },
+      {
+        "latitude": "39.741831",
+        "longitude": "116.335062"
+      },
+      {
+        "latitude": "39.731649",
+        "longitude": "116.329593"
+      },
+      {
+        "latitude": "39.745375",
+        "longitude": "116.344429"
+      },
+      {
+        "latitude": "39.780830",
+        "longitude": "116.320291"
+      }
+    ]
+  },
+  {
+    "name": "赵村",
+    "coordinates": [
+      {
+        "latitude": "39.839965",
+        "longitude": "116.354460"
+      },
+      {
+        "latitude": "39.593225",
+        "longitude": "116.246120"
+      },
+      {
+        "latitude": "39.591828",
+        "longitude": "116.247014"
+      },
+      {
+        "latitude": "39.593767",
+        "longitude": "116.237635"
+      },
+      {
+        "latitude": "39.609605",
+        "longitude": "116.238558"
+      },
+      {
+        "latitude": "39.596030",
+        "longitude": "116.231237"
+      },
+      {
+        "latitude": "39.593918",
+        "longitude": "116.237668"
+      },
+      {
+        "latitude": "39.594444",
+        "longitude": "116.234023"
+      },
+      {
+        "latitude": "39.594444",
+        "longitude": "116.234322"
+      },
+      {
+        "latitude": "39.592981",
+        "longitude": "116.241846"
+      }
+    ]
+  },
+  {
+    "name": "半壁店",
+    "coordinates": [
+      {
+        "latitude": "40.034640",
+        "longitude": "116.637916"
+      },
+      {
+        "latitude": "40.030437",
+        "longitude": "116.627231"
+      },
+      {
+        "latitude": "40.034635",
+        "longitude": "116.638441"
+      },
+      {
+        "latitude": "40.031676",
+        "longitude": "116.633552"
+      },
+      {
+        "latitude": "40.035075",
+        "longitude": "116.637440"
+      },
+      {
+        "latitude": "39.893036",
+        "longitude": "116.526860"
+      },
+      {
+        "latitude": "40.034120",
+        "longitude": "116.629980"
+      },
+      {
+        "latitude": "40.025405",
+        "longitude": "116.643748"
+      },
+      {
+        "latitude": "40.024859",
+        "longitude": "116.643906"
+      },
+      {
+        "latitude": "39.880818",
+        "longitude": "116.637096"
+      }
+    ]
+  },
+  {
+    "name": "凤河营",
+    "coordinates": [
+      {
+        "latitude": "39.616185",
+        "longitude": "116.696775"
+      },
+      {
+        "latitude": "39.609717",
+        "longitude": "116.692764"
+      },
+      {
+        "latitude": "39.611285",
+        "longitude": "116.692652"
+      },
+      {
+        "latitude": "39.614354",
+        "longitude": "116.695886"
+      },
+      {
+        "latitude": "39.614165",
+        "longitude": "116.698720"
+      },
+      {
+        "latitude": "39.611303",
+        "longitude": "116.692629"
+      },
+      {
+        "latitude": "39.618927",
+        "longitude": "116.687360"
+      },
+      {
+        "latitude": "39.616036",
+        "longitude": "116.693744"
+      },
+      {
+        "latitude": "39.614042",
+        "longitude": "116.698500"
+      },
+      {
+        "latitude": "39.612507",
+        "longitude": "116.692048"
+      }
+    ]
+  },
+  {
+    "name": "南各庄",
+    "coordinates": [
+      {
+        "latitude": "39.509366",
+        "longitude": "116.319199"
+      }
+    ]
+  }
+]

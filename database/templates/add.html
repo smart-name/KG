@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<form action="" method="post" enctype="multipart/form-data">
+    <label for="add_file">上传数据：</label>
+    <input class="add_inputfile" type="file" name="add_file" id="add_file" accept="application/json">
+    <input class="btn_add" type="submit" value="上传">
+</form>
+<p>{{ tables|length }} Tables</p>
+<ul class="table-list">
+    {% for table in tables %}
+    <li>
+        {{ table.Tables_in_city_knowledge_graph_test }}
+        <div style="text-align: right">
+            <a class="btn_updateAndView" href="{{ url_for('updateAndView', table=table.Tables_in_city_knowledge_graph_test )}}" >查看与修改</a>
+        </div>
+    </li>
+    {% endfor %}
+</ul>
+{% endblock %}

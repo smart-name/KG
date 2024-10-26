@@ -1,0 +1,190 @@
+body {
+    margin: auto;
+    max-width: 580px;
+    font-size: 14px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+
+.alert {
+    position: relative;
+    padding: 7px;
+    margin: 7px 0;
+    border: 1px solid transparent;
+    color: #004085;
+    background-color: #cce5ff;
+    border-color: #b8daff;
+    border-radius: 5px;
+}
+
+input[type=submit] {
+    font-family: inherit;
+}
+
+input[type=text] {
+    border: 1px solid #ddd;
+}
+
+input[name=year] {
+    width: 50px;
+}
+
+.btn_home{
+    width: 40px;
+}
+
+.btn_home:hover {
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+}
+
+.btn_add {
+    background-color:cornflowerblue;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+.btn_add:hover {
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+}
+
+.btn_updateAndView {
+    background-color:cornflowerblue;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+.btn_updateAndView:hover {
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+}
+
+.btn_deleteOrUpdate {
+    width: 80px;
+    height: 35px;
+    background-color:cornflowerblue;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px 55px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+.btn_deleteOrUpdate:hover {
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+}
+
+.table-list {
+    list-style-type: decimal;
+    padding: 0;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+.table-list li {
+    padding: 12px 24px;
+    border-bottom: 1px solid #ddd;
+}
+
+
+.table-list li:hover {
+    background-color: darkgray;
+}
+
+
+.add_label{
+    font-size: 20px;
+    padding: 20px;
+    margin: 4px 2px;
+}
+
+.add_inputfile{
+    padding: 10px;
+    margin: 4px 2px;
+    font-size: 15px;
+    border-style: solid;
+    border-width: thin;
+}
+
+.flex-space-between{
+    display: flex;
+    justify-content: space-between;
+}
+
+.text{
+    padding: 10px;
+    margin: 4px 2px;
+    font-size: 15px;
+}
+
+.table_updateAndView table {
+    border-collapse: separate;
+    border-spacing: 10px 5px;
+    table-layout: fixed;
+    width: 800px;
+    border: 1px solid;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.table_updateAndView caption{
+    font-size: 25px;
+    padding: 10px;
+}
+
+.table_updateAndView thead{
+    font-size: 20px;
+
+}
+
+.table_updateAndView tbody {
+    font-size: 15px;
+    display: block;
+    overflow-y: scroll;
+    height: 900px;
+}
+
+.table_updateAndView td {
+    width: 20%;
+    border: 1px solid;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.table_updateAndView tr {
+    display: table;
+    width: calc( 100% - 1px);
+    table-layout: fixed;
+}
+
+

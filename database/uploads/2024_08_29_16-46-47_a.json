@@ -1,0 +1,91 @@
+{
+  "entities": [
+    {"id": "1",
+      "type": "City",
+      "name": "北京",
+      "coordinates": {
+        "latitude": 12.2332,
+        "longitude": 123.3232
+      }
+    },
+    {"id": "2",
+      "type": "City",
+      "name": "天津",
+      "coordinates": {
+        "latitude": 13.2332,
+        "longitude": 133.3232
+      }
+    },
+    {
+      "id": "11",
+      "type": "Region",
+      "name": "北京市海淀区",
+      "coordinates": {
+        "latitude": 13.1313,
+        "longitude": 134.2323
+      }
+    },
+    {
+      "id": "111",
+      "type": "AOI",
+      "name": "北京理工大学",
+      "coordinates": {
+        "latitude": 14.1414,
+        "longitude": 145.6767
+      }
+    },
+    {
+      "id": "1111",
+      "type": "POI",
+      "name": "北京理工大学中心教学楼",
+      "coordinates": {
+        "latitude": 15.1212,
+        "longitude": 156.7878
+      }
+    },
+    {
+      "id": "1112",
+      "type": "POI",
+      "name": "北京理工大学计算机学院",
+      "coordinates": {
+        "latitude": 15.1212,
+        "longitude": 156.7878
+      }
+    },
+    {
+      "id": "112",
+      "type": "AOI",
+      "name": "中国人民大学",
+      "coordinates": {
+        "latitude": 14.1414,
+        "longitude": 145.6767
+      }
+    }
+  ],
+  "relations" : [
+    {
+      "id": "1",
+      "type": "LocatedIn",
+      "from": "1",
+      "to": "11"
+    },
+    {
+      "id": "11",
+      "type": "LocatedIn",
+      "from": "11",
+      "to": "111"
+    },
+    {
+      "id": "1111",
+      "type": "SameAs",
+      "from": "1111",
+      "to": "1112"
+    },
+    {
+      "id": "111",
+      "type": "CloseTo",
+      "from": "111",
+      "to": "112"
+    }
+  ]
+}
